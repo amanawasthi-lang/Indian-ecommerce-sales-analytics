@@ -1,0 +1,7 @@
+Total Sales = SUM(orders[sales])
+Total Profit = SUM(orders[profit])
+Total Orders = DISTINCTCOUNT(orders[order_id])
+Units Sold = SUM(orders[quantity])
+Average Order Value = DIVIDE([Total Sales], [Total Orders])
+Profit Margin % = DIVIDE([Total Profit], [Total Sales])
+Sales per Unit = DIVIDE([Total Sales], [Units Sold])

@@ -1,0 +1,1201 @@
+order_id,order_date,state,category,product,quantity,unit_price,discount_rate,sales,cost,channel,payment_method
+ORD10001,2024-03-06,Delhi,Grocery,Rice,4,670,0.2,2144.0,1679.44,Marketplace,UPI
+ORD10002,2025-07-19,Gujarat,Electronics,Smart Watch,3,5817,0.2,13960.8,11671.09,Website,Card
+ORD10003,2025-04-23,West Bengal,Grocery,Dry Fruits,4,181,0.0,724.0,566.25,Mobile App,Net Banking
+ORD10004,2024-11-16,Rajasthan,Grocery,Dry Fruits,2,140,0.0,280.0,202.84,Mobile App,Net Banking
+ORD10005,2024-11-12,West Bengal,Fashion,Backpack,2,824,0.0,1648.0,1002.67,Marketplace,Net Banking
+ORD10006,2025-09-19,Rajasthan,Beauty,Moisturizer,4,918,0.0,3672.0,2353.68,Website,COD
+ORD10007,2024-03-03,Gujarat,Fashion,Backpack,2,2393,0.0,4786.0,3275.31,Marketplace,COD
+ORD10008,2025-05-24,Rajasthan,Beauty,Face Wash,1,495,0.0,495.0,363.07,Mobile App,Card
+ORD10009,2024-05-27,Delhi,Electronics,Wireless Earbuds,3,6296,0.0,18888.0,14479.28,Marketplace,COD
+ORD10010,2024-03-09,Tamil Nadu,Grocery,Rice,2,177,0.2,283.2,215.86,Marketplace,COD
+ORD10011,2025-01-19,Karnataka,Electronics,Smart Watch,2,6474,0.05,12300.6,7349.16,Website,COD
+ORD10012,2025-12-14,Delhi,Electronics,Wireless Earbuds,2,6771,0.2,10833.6,8401.57,Mobile App,COD
+ORD10013,2025-06-21,West Bengal,Grocery,Tea,2,346,0.15,588.2,422.14,Marketplace,UPI
+ORD10014,2025-07-10,Karnataka,Home & Kitchen,Bedsheet,3,3454,0.0,10362.0,8365.47,Website,Card
+ORD10015,2025-06-08,Tamil Nadu,Electronics,Smart Watch,2,5710,0.05,10849.0,9098.22,Marketplace,Card
+ORD10016,2025-07-28,Tamil Nadu,Grocery,Dry Fruits,4,220,0.0,880.0,659.79,Website,Net Banking
+ORD10017,2025-01-10,Uttar Pradesh,Beauty,Moisturizer,4,1133,0.0,4532.0,2676.96,Website,COD
+ORD10018,2024-04-03,Uttar Pradesh,Electronics,Power Bank,2,2435,0.0,4870.0,3311.46,Marketplace,UPI
+ORD10019,2025-09-05,Karnataka,Grocery,Dry Fruits,2,403,0.05,765.7,444.44,Website,Card
+ORD10020,2024-11-25,Karnataka,Grocery,Tea,1,103,0.05,97.85,76.61,Mobile App,Net Banking
+ORD10021,2024-12-31,Gujarat,Home & Kitchen,Mixer Grinder,1,1159,0.1,1043.1,666.9,Website,UPI
+ORD10022,2024-09-28,Maharashtra,Grocery,Rice,1,236,0.0,236.0,145.36,Website,Net Banking
+ORD10023,2024-05-13,Uttar Pradesh,Electronics,Wireless Earbuds,4,1967,0.1,7081.2,4551.98,Mobile App,UPI
+ORD10024,2025-11-08,Tamil Nadu,Home & Kitchen,Storage Box,4,1302,0.0,5208.0,4067.26,Marketplace,Net Banking
+ORD10025,2025-07-25,Gujarat,Fashion,Kurta,1,1525,0.2,1220.0,822.28,Marketplace,UPI
+ORD10026,2025-04-15,Delhi,Fashion,Sneakers,4,1621,0.0,6484.0,3892.4,Marketplace,UPI
+ORD10027,2024-10-21,Rajasthan,Beauty,Moisturizer,2,831,0.1,1495.8,1154.8,Website,UPI
+ORD10028,2025-08-24,Gujarat,Grocery,Tea,3,629,0.0,1887.0,1343.35,Website,Net Banking
+ORD10029,2025-02-02,Uttar Pradesh,Fashion,Kurta,4,1517,0.0,6068.0,4935.1,Marketplace,Card
+ORD10030,2024-11-20,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,2956,0.0,8868.0,6673.54,Marketplace,Net Banking
+ORD10031,2024-11-25,Maharashtra,Electronics,Wireless Earbuds,1,4493,0.0,4493.0,3319.43,Mobile App,COD
+ORD10032,2024-06-15,Rajasthan,Fashion,Backpack,3,1896,0.2,4550.4,3135.27,Marketplace,COD
+ORD10033,2024-03-08,Gujarat,Grocery,Tea,1,414,0.0,414.0,335.88,Mobile App,UPI
+ORD10034,2025-02-09,Maharashtra,Beauty,Moisturizer,1,312,0.15,265.2,216.74,Website,UPI
+ORD10035,2025-10-11,Gujarat,Fashion,Sneakers,4,1717,0.05,6524.6,5042.51,Marketplace,COD
+ORD10036,2024-02-16,Rajasthan,Beauty,Sunscreen,3,1096,0.1,2959.2,1793.17,Website,UPI
+ORD10037,2025-09-19,Gujarat,Home & Kitchen,Storage Box,2,3922,0.1,7059.6,5723.7,Mobile App,COD
+ORD10038,2025-08-27,Tamil Nadu,Fashion,Sneakers,3,1578,0.15,4023.9,2823.11,Website,UPI
+ORD10039,2024-07-21,Uttar Pradesh,Fashion,Sneakers,2,1991,0.1,3583.8,2394.93,Marketplace,COD
+ORD10040,2025-04-06,Karnataka,Fashion,Kurta,1,1957,0.0,1957.0,1229.58,Mobile App,COD
+ORD10041,2024-04-30,Gujarat,Electronics,Smart Watch,2,2408,0.2,3852.8,2888.27,Mobile App,Net Banking
+ORD10042,2025-07-08,West Bengal,Electronics,Wireless Earbuds,2,1639,0.15,2786.3,2329.31,Mobile App,Net Banking
+ORD10043,2025-05-27,Rajasthan,Fashion,Backpack,3,1202,0.1,3245.4,1964.16,Marketplace,COD
+ORD10044,2024-09-16,Maharashtra,Beauty,Moisturizer,3,393,0.15,1002.15,733.47,Mobile App,COD
+ORD10045,2024-02-19,Tamil Nadu,Beauty,Face Wash,4,239,0.1,860.4,545.3,Marketplace,Card
+ORD10046,2025-12-10,Rajasthan,Electronics,Wireless Earbuds,4,5305,0.0,21220.0,14589.34,Website,Card
+ORD10047,2024-11-21,Gujarat,Electronics,Wireless Earbuds,4,5203,0.0,20812.0,14943.46,Website,Card
+ORD10048,2025-10-14,Rajasthan,Fashion,Kurta,1,2368,0.05,2249.6,1591.72,Mobile App,COD
+ORD10049,2025-05-10,Rajasthan,Fashion,Sneakers,4,1095,0.2,3504.0,2471.47,Marketplace,UPI
+ORD10050,2025-07-22,Uttar Pradesh,Electronics,Smart Watch,3,6750,0.0,20250.0,16572.21,Website,Card
+ORD10051,2025-07-09,Maharashtra,Grocery,Rice,1,516,0.0,516.0,431.91,Marketplace,Net Banking
+ORD10052,2024-05-22,Karnataka,Beauty,Moisturizer,2,1114,0.0,2228.0,1490.59,Website,Net Banking
+ORD10053,2024-09-23,Karnataka,Beauty,Moisturizer,1,1013,0.15,861.05,597.46,Mobile App,Net Banking
+ORD10054,2024-12-07,Delhi,Electronics,Smart Watch,4,2539,0.0,10156.0,6292.71,Marketplace,COD
+ORD10055,2024-12-29,Gujarat,Home & Kitchen,Bedsheet,1,1446,0.05,1373.7,1032.46,Mobile App,UPI
+ORD10056,2024-02-02,Gujarat,Home & Kitchen,Bedsheet,4,2334,0.15,7935.6,4685.7,Marketplace,Card
+ORD10057,2025-02-03,Karnataka,Fashion,Backpack,3,911,0.1,2459.7,1620.07,Marketplace,COD
+ORD10058,2024-04-22,Gujarat,Fashion,Backpack,3,1186,0.05,3380.1,2757.63,Website,Card
+ORD10059,2025-06-27,Karnataka,Electronics,Smart Watch,2,2922,0.0,5844.0,3528.89,Marketplace,UPI
+ORD10060,2025-05-14,Maharashtra,Beauty,Sunscreen,3,472,0.1,1274.4,1024.32,Marketplace,UPI
+ORD10061,2025-11-05,West Bengal,Grocery,Dry Fruits,1,193,0.0,193.0,145.8,Marketplace,COD
+ORD10062,2025-06-28,Tamil Nadu,Fashion,Backpack,3,1843,0.0,5529.0,4105.97,Website,Card
+ORD10063,2024-09-25,West Bengal,Beauty,Sunscreen,3,708,0.05,2017.8,1629.43,Mobile App,Card
+ORD10064,2025-12-08,Tamil Nadu,Home & Kitchen,Mixer Grinder,4,1480,0.05,5624.0,4186.35,Marketplace,Card
+ORD10065,2024-10-27,West Bengal,Grocery,Tea,2,771,0.2,1233.6,954.43,Marketplace,UPI
+ORD10066,2024-08-26,Gujarat,Beauty,Face Wash,2,379,0.0,758.0,490.45,Mobile App,COD
+ORD10067,2025-10-23,Uttar Pradesh,Fashion,Sneakers,2,1746,0.0,3492.0,2032.18,Mobile App,Card
+ORD10068,2024-09-27,Uttar Pradesh,Beauty,Face Wash,4,956,0.05,3632.8,3050.24,Website,UPI
+ORD10069,2024-02-25,West Bengal,Grocery,Tea,1,844,0.2,675.2,403.84,Website,COD
+ORD10070,2024-12-09,Uttar Pradesh,Beauty,Face Wash,2,836,0.15,1421.2,889.46,Website,Card
+ORD10071,2025-08-04,Uttar Pradesh,Home & Kitchen,Bedsheet,1,2823,0.2,2258.4,1896.72,Mobile App,UPI
+ORD10072,2024-05-18,Delhi,Electronics,Power Bank,3,1533,0.05,4369.05,2592.46,Mobile App,COD
+ORD10073,2024-12-04,Maharashtra,Beauty,Moisturizer,2,1098,0.05,2086.2,1384.41,Marketplace,COD
+ORD10074,2024-04-04,West Bengal,Grocery,Tea,2,547,0.0,1094.0,678.19,Website,COD
+ORD10075,2025-05-16,Karnataka,Fashion,Kurta,3,798,0.1,2154.6,1269.18,Mobile App,COD
+ORD10076,2024-12-13,Rajasthan,Grocery,Rice,1,300,0.05,285.0,226.0,Website,UPI
+ORD10077,2024-08-29,Gujarat,Home & Kitchen,Bedsheet,3,1215,0.05,3462.75,2683.87,Mobile App,Card
+ORD10078,2024-06-14,Uttar Pradesh,Fashion,Sneakers,1,758,0.0,758.0,474.38,Website,UPI
+ORD10079,2025-02-16,West Bengal,Electronics,Power Bank,1,3270,0.1,2943.0,2050.3,Mobile App,UPI
+ORD10080,2025-05-04,Maharashtra,Grocery,Dry Fruits,4,586,0.1,2109.6,1382.13,Website,COD
+ORD10081,2025-11-18,West Bengal,Electronics,Smart Watch,3,4215,0.0,12645.0,7496.71,Mobile App,Card
+ORD10082,2024-11-15,Rajasthan,Home & Kitchen,Bedsheet,2,1219,0.1,2194.2,1492.49,Marketplace,Card
+ORD10083,2024-04-27,Uttar Pradesh,Electronics,Smart Watch,1,2751,0.0,2751.0,1596.34,Website,COD
+ORD10084,2025-08-31,Delhi,Grocery,Dry Fruits,3,157,0.05,447.45,368.36,Mobile App,UPI
+ORD10085,2025-04-05,Delhi,Fashion,Kurta,2,1320,0.0,2640.0,1599.26,Website,UPI
+ORD10086,2025-05-26,Karnataka,Home & Kitchen,Bedsheet,1,2693,0.05,2558.35,1520.61,Mobile App,Card
+ORD10087,2024-03-12,Rajasthan,Fashion,Kurta,4,1221,0.15,4151.4,2515.57,Website,UPI
+ORD10088,2024-08-16,Rajasthan,Electronics,Smart Watch,3,3325,0.15,8478.75,6077.36,Website,Net Banking
+ORD10089,2025-07-15,West Bengal,Home & Kitchen,Mixer Grinder,1,1464,0.1,1317.6,1040.39,Website,Net Banking
+ORD10090,2025-08-31,Delhi,Grocery,Tea,2,864,0.05,1641.6,1201.71,Mobile App,UPI
+ORD10091,2024-11-14,Gujarat,Beauty,Face Wash,1,982,0.1,883.8,595.02,Mobile App,Card
+ORD10092,2025-08-11,Delhi,Home & Kitchen,Storage Box,3,3257,0.0,9771.0,6813.05,Marketplace,COD
+ORD10093,2025-09-07,Tamil Nadu,Fashion,Sneakers,2,1070,0.0,2140.0,1451.85,Website,Card
+ORD10094,2024-10-10,Tamil Nadu,Electronics,Smart Watch,3,6804,0.1,18370.8,11884.62,Mobile App,Net Banking
+ORD10095,2025-10-18,Uttar Pradesh,Grocery,Dry Fruits,1,123,0.15,104.55,71.31,Marketplace,Net Banking
+ORD10096,2024-07-29,Tamil Nadu,Home & Kitchen,Storage Box,1,3758,0.0,3758.0,2906.06,Website,Net Banking
+ORD10097,2024-06-24,West Bengal,Fashion,Sneakers,1,1294,0.0,1294.0,1046.17,Mobile App,Net Banking
+ORD10098,2025-05-13,Delhi,Home & Kitchen,Mixer Grinder,2,1880,0.05,3572.0,2968.36,Website,Net Banking
+ORD10099,2025-04-10,Delhi,Beauty,Sunscreen,4,1159,0.05,4404.2,2670.21,Marketplace,COD
+ORD10100,2024-04-12,Delhi,Home & Kitchen,Mixer Grinder,3,2985,0.05,8507.25,5857.93,Website,UPI
+ORD10101,2025-08-31,West Bengal,Grocery,Dry Fruits,1,329,0.15,279.65,163.94,Mobile App,COD
+ORD10102,2024-05-26,Delhi,Home & Kitchen,Bedsheet,3,2599,0.1,7017.3,4143.19,Mobile App,Card
+ORD10103,2025-08-11,Tamil Nadu,Grocery,Rice,4,234,0.0,936.0,566.44,Marketplace,UPI
+ORD10104,2024-01-06,Gujarat,Home & Kitchen,Mixer Grinder,4,1169,0.15,3974.6,2960.68,Mobile App,Card
+ORD10105,2025-08-05,Maharashtra,Electronics,Smart Watch,2,1022,0.2,1635.2,965.59,Marketplace,COD
+ORD10106,2025-07-29,Rajasthan,Fashion,Sneakers,4,399,0.0,1596.0,950.5,Website,Net Banking
+ORD10107,2025-07-24,West Bengal,Grocery,Tea,3,545,0.05,1553.25,1080.6,Website,UPI
+ORD10108,2025-05-01,West Bengal,Grocery,Tea,2,242,0.0,484.0,389.86,Website,COD
+ORD10109,2024-12-10,Karnataka,Home & Kitchen,Storage Box,1,3408,0.0,3408.0,2681.77,Mobile App,Card
+ORD10110,2025-05-30,Delhi,Home & Kitchen,Storage Box,4,1892,0.05,7189.6,4892.15,Website,Card
+ORD10111,2024-07-21,Rajasthan,Electronics,Smart Watch,1,1356,0.05,1288.2,1058.87,Mobile App,UPI
+ORD10112,2025-07-24,Maharashtra,Electronics,Wireless Earbuds,1,6134,0.05,5827.3,4798.23,Marketplace,Net Banking
+ORD10113,2025-02-10,Karnataka,Electronics,Wireless Earbuds,3,1104,0.0,3312.0,2410.57,Marketplace,Card
+ORD10114,2024-12-01,Tamil Nadu,Home & Kitchen,Bedsheet,3,2152,0.15,5487.6,4536.59,Website,Card
+ORD10115,2025-01-04,Uttar Pradesh,Electronics,Wireless Earbuds,2,2200,0.05,4180.0,3262.08,Mobile App,Card
+ORD10116,2025-02-19,Delhi,Electronics,Smart Watch,2,1950,0.0,3900.0,2994.01,Marketplace,UPI
+ORD10117,2024-01-28,West Bengal,Beauty,Sunscreen,4,755,0.05,2869.0,2043.1,Mobile App,Card
+ORD10118,2024-04-12,Uttar Pradesh,Grocery,Tea,2,878,0.1,1580.4,1010.3,Marketplace,COD
+ORD10119,2024-06-28,Rajasthan,Beauty,Face Wash,3,653,0.05,1861.05,1108.6,Marketplace,COD
+ORD10120,2024-03-24,Rajasthan,Beauty,Sunscreen,4,808,0.1,2908.8,1950.05,Mobile App,COD
+ORD10121,2024-11-17,Uttar Pradesh,Beauty,Sunscreen,4,766,0.15,2604.4,1853.03,Marketplace,Card
+ORD10122,2025-05-03,Maharashtra,Home & Kitchen,Bedsheet,1,1561,0.1,1404.9,1087.8,Website,Net Banking
+ORD10123,2025-04-23,Karnataka,Beauty,Face Wash,3,986,0.0,2958.0,1939.7,Mobile App,UPI
+ORD10124,2024-12-10,Karnataka,Grocery,Dry Fruits,4,696,0.05,2644.8,1635.36,Mobile App,Card
+ORD10125,2025-09-17,Maharashtra,Fashion,Kurta,2,1855,0.0,3710.0,2615.89,Marketplace,COD
+ORD10126,2025-02-17,Maharashtra,Beauty,Face Wash,4,1006,0.05,3822.8,2392.51,Website,Card
+ORD10127,2024-02-27,Uttar Pradesh,Fashion,Sneakers,3,2301,0.0,6903.0,4238.66,Mobile App,COD
+ORD10128,2025-07-13,West Bengal,Fashion,Backpack,2,819,0.05,1556.1,1162.69,Website,Net Banking
+ORD10129,2025-02-24,Rajasthan,Beauty,Sunscreen,2,1018,0.1,1832.4,1282.39,Website,COD
+ORD10130,2025-04-08,Tamil Nadu,Electronics,Smart Watch,2,3705,0.1,6669.0,5318.66,Marketplace,UPI
+ORD10131,2025-02-17,Maharashtra,Beauty,Face Wash,1,952,0.15,809.2,656.56,Website,UPI
+ORD10132,2025-02-08,Karnataka,Home & Kitchen,Storage Box,2,2608,0.1,4694.4,3084.4,Website,UPI
+ORD10133,2024-03-07,Gujarat,Fashion,Kurta,3,1684,0.15,4294.2,3251.33,Website,COD
+ORD10134,2025-02-12,Maharashtra,Electronics,Wireless Earbuds,4,6870,0.1,24732.0,19581.89,Mobile App,UPI
+ORD10135,2025-08-04,Rajasthan,Grocery,Tea,2,432,0.05,820.8,530.06,Marketplace,COD
+ORD10136,2024-08-10,Uttar Pradesh,Beauty,Moisturizer,2,350,0.1,630.0,528.23,Marketplace,UPI
+ORD10137,2025-03-16,Maharashtra,Fashion,Kurta,4,1903,0.05,7231.4,5598.84,Mobile App,UPI
+ORD10138,2024-01-23,Rajasthan,Electronics,Wireless Earbuds,1,4299,0.1,3869.1,2938.6,Website,Net Banking
+ORD10139,2024-09-11,West Bengal,Electronics,Smart Watch,3,3300,0.1,8910.0,6915.84,Website,Card
+ORD10140,2024-11-15,Karnataka,Home & Kitchen,Mixer Grinder,1,1763,0.1,1586.7,1294.71,Mobile App,Net Banking
+ORD10141,2025-12-19,West Bengal,Beauty,Face Wash,3,417,0.15,1063.35,727.9,Website,Card
+ORD10142,2024-06-05,Gujarat,Grocery,Rice,2,725,0.1,1305.0,828.47,Mobile App,Net Banking
+ORD10143,2024-07-21,Uttar Pradesh,Beauty,Sunscreen,1,684,0.15,581.4,383.44,Mobile App,COD
+ORD10144,2024-10-25,Gujarat,Beauty,Moisturizer,1,1133,0.05,1076.35,869.62,Website,COD
+ORD10145,2025-12-26,Karnataka,Grocery,Dry Fruits,1,316,0.0,316.0,202.86,Mobile App,COD
+ORD10146,2025-09-15,West Bengal,Home & Kitchen,Bedsheet,3,3370,0.0,10110.0,7799.82,Website,COD
+ORD10147,2024-01-26,Maharashtra,Fashion,Sneakers,4,1041,0.1,3747.6,3067.95,Marketplace,Card
+ORD10148,2024-06-20,Uttar Pradesh,Fashion,Sneakers,3,1342,0.05,3824.7,3088.98,Website,Card
+ORD10149,2025-08-23,Maharashtra,Home & Kitchen,Storage Box,3,3924,0.0,11772.0,9185.11,Mobile App,UPI
+ORD10150,2024-02-12,Maharashtra,Beauty,Face Wash,3,146,0.1,394.2,286.39,Mobile App,Card
+ORD10151,2025-09-17,Rajasthan,Home & Kitchen,Mixer Grinder,2,3494,0.05,6638.6,5481.75,Website,Card
+ORD10152,2024-07-24,West Bengal,Beauty,Moisturizer,2,925,0.0,1850.0,1328.55,Mobile App,Net Banking
+ORD10153,2025-11-01,Karnataka,Beauty,Face Wash,4,487,0.1,1753.2,1306.56,Marketplace,Net Banking
+ORD10154,2024-08-02,Maharashtra,Home & Kitchen,Mixer Grinder,2,479,0.15,814.3,644.16,Website,Card
+ORD10155,2024-11-13,Rajasthan,Grocery,Rice,1,820,0.15,697.0,464.45,Website,Card
+ORD10156,2025-04-28,West Bengal,Fashion,Kurta,1,564,0.0,564.0,346.56,Mobile App,Net Banking
+ORD10157,2024-04-02,West Bengal,Beauty,Moisturizer,1,562,0.1,505.8,362.03,Marketplace,Card
+ORD10158,2025-02-11,Rajasthan,Home & Kitchen,Storage Box,2,505,0.0,1010.0,626.12,Marketplace,UPI
+ORD10159,2025-01-04,Maharashtra,Beauty,Sunscreen,3,817,0.0,2451.0,1909.1,Website,Net Banking
+ORD10160,2025-07-27,Tamil Nadu,Fashion,Sneakers,3,2301,0.0,6903.0,4998.56,Website,COD
+ORD10161,2025-12-29,Tamil Nadu,Home & Kitchen,Bedsheet,1,756,0.1,680.4,515.38,Website,Net Banking
+ORD10162,2025-04-30,Delhi,Home & Kitchen,Mixer Grinder,2,3985,0.1,7173.0,4602.46,Marketplace,Net Banking
+ORD10163,2024-10-26,West Bengal,Home & Kitchen,Bedsheet,1,2022,0.1,1819.8,1494.55,Mobile App,Net Banking
+ORD10164,2024-10-24,Tamil Nadu,Home & Kitchen,Bedsheet,3,700,0.05,1995.0,1635.18,Mobile App,Card
+ORD10165,2024-11-01,Tamil Nadu,Home & Kitchen,Bedsheet,4,1939,0.0,7756.0,4690.43,Website,COD
+ORD10166,2025-08-18,Tamil Nadu,Home & Kitchen,Bedsheet,4,2910,0.0,11640.0,9599.27,Marketplace,UPI
+ORD10167,2024-08-22,Maharashtra,Home & Kitchen,Bedsheet,1,2655,0.1,2389.5,1529.22,Marketplace,Net Banking
+ORD10168,2024-05-02,Maharashtra,Home & Kitchen,Mixer Grinder,4,1599,0.0,6396.0,4126.14,Marketplace,Card
+ORD10169,2024-09-01,Delhi,Beauty,Moisturizer,4,238,0.1,856.8,688.52,Marketplace,Card
+ORD10170,2024-01-17,Delhi,Fashion,Sneakers,3,2132,0.2,5116.8,4278.22,Marketplace,Net Banking
+ORD10171,2024-03-18,Tamil Nadu,Home & Kitchen,Storage Box,4,1453,0.1,5230.8,3721.35,Mobile App,Card
+ORD10172,2024-03-06,Maharashtra,Home & Kitchen,Storage Box,3,1840,0.0,5520.0,4422.27,Marketplace,Card
+ORD10173,2025-07-18,Karnataka,Electronics,Wireless Earbuds,1,5507,0.0,5507.0,3447.49,Mobile App,Net Banking
+ORD10174,2025-06-12,Uttar Pradesh,Fashion,Backpack,1,420,0.15,357.0,221.48,Mobile App,COD
+ORD10175,2025-05-24,Tamil Nadu,Fashion,Sneakers,3,1141,0.15,2909.55,1695.87,Website,COD
+ORD10176,2024-12-03,Gujarat,Grocery,Rice,3,742,0.1,2003.4,1474.2,Marketplace,Net Banking
+ORD10177,2025-06-08,Uttar Pradesh,Grocery,Rice,3,374,0.0,1122.0,664.17,Mobile App,Card
+ORD10178,2024-04-27,Tamil Nadu,Beauty,Moisturizer,1,815,0.1,733.5,580.0,Website,COD
+ORD10179,2025-10-20,Tamil Nadu,Electronics,Wireless Earbuds,4,3745,0.0,14980.0,9559.24,Mobile App,UPI
+ORD10180,2025-01-01,Maharashtra,Home & Kitchen,Mixer Grinder,1,2377,0.15,2020.45,1181.24,Website,Net Banking
+ORD10181,2025-11-16,Maharashtra,Home & Kitchen,Storage Box,3,3111,0.15,7933.05,6603.35,Mobile App,Net Banking
+ORD10182,2024-04-21,Delhi,Electronics,Wireless Earbuds,4,1174,0.1,4226.4,2620.08,Mobile App,COD
+ORD10183,2024-12-29,West Bengal,Beauty,Face Wash,3,685,0.05,1952.25,1290.78,Marketplace,UPI
+ORD10184,2025-05-24,Delhi,Beauty,Face Wash,2,357,0.15,606.9,467.85,Website,UPI
+ORD10185,2024-12-28,Uttar Pradesh,Grocery,Dry Fruits,3,278,0.1,750.6,616.19,Website,UPI
+ORD10186,2024-11-22,Gujarat,Beauty,Moisturizer,4,215,0.0,860.0,514.73,Mobile App,Card
+ORD10187,2024-05-01,Uttar Pradesh,Beauty,Sunscreen,1,147,0.05,139.65,111.6,Mobile App,Net Banking
+ORD10188,2024-10-05,Delhi,Grocery,Tea,3,645,0.0,1935.0,1199.12,Website,COD
+ORD10189,2024-06-23,Karnataka,Electronics,Wireless Earbuds,3,2576,0.05,7341.6,5254.29,Website,Card
+ORD10190,2024-08-08,Uttar Pradesh,Electronics,Power Bank,3,2698,0.0,8094.0,5217.04,Mobile App,Card
+ORD10191,2025-05-14,Gujarat,Fashion,Sneakers,4,312,0.1,1123.2,657.83,Mobile App,Net Banking
+ORD10192,2025-04-05,West Bengal,Fashion,Backpack,2,520,0.0,1040.0,765.81,Website,Net Banking
+ORD10193,2025-03-19,Karnataka,Grocery,Tea,4,841,0.2,2691.2,1590.53,Mobile App,Net Banking
+ORD10194,2024-09-21,Uttar Pradesh,Home & Kitchen,Bedsheet,1,594,0.05,564.3,450.93,Mobile App,Card
+ORD10195,2025-12-02,West Bengal,Electronics,Smart Watch,1,6863,0.0,6863.0,5667.52,Website,Net Banking
+ORD10196,2024-03-05,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,281,0.2,224.8,145.51,Marketplace,COD
+ORD10197,2024-09-07,West Bengal,Beauty,Sunscreen,1,566,0.05,537.7,386.06,Marketplace,UPI
+ORD10198,2024-03-27,Maharashtra,Electronics,Power Bank,2,2038,0.1,3668.4,2300.61,Mobile App,COD
+ORD10199,2024-09-04,Uttar Pradesh,Fashion,Kurta,3,1181,0.05,3365.85,2268.37,Marketplace,UPI
+ORD10200,2025-12-04,Uttar Pradesh,Home & Kitchen,Mixer Grinder,1,1859,0.05,1766.05,1081.22,Marketplace,UPI
+ORD10201,2024-09-24,Delhi,Beauty,Sunscreen,2,1099,0.1,1978.2,1512.72,Marketplace,COD
+ORD10202,2025-10-26,Tamil Nadu,Grocery,Rice,2,756,0.0,1512.0,1117.99,Mobile App,UPI
+ORD10203,2024-12-27,Rajasthan,Electronics,Power Bank,3,2440,0.0,7320.0,4766.9,Website,Card
+ORD10204,2025-05-26,Karnataka,Fashion,Kurta,1,1132,0.0,1132.0,682.97,Mobile App,UPI
+ORD10205,2024-11-30,West Bengal,Fashion,Kurta,2,1618,0.05,3074.2,2208.12,Website,UPI
+ORD10206,2024-07-13,Delhi,Beauty,Face Wash,4,1087,0.1,3913.2,3090.11,Marketplace,Card
+ORD10207,2025-07-12,Maharashtra,Electronics,Power Bank,2,1384,0.0,2768.0,2077.72,Website,COD
+ORD10208,2025-12-09,Uttar Pradesh,Beauty,Sunscreen,4,1045,0.0,4180.0,2874.53,Marketplace,UPI
+ORD10209,2024-07-11,Rajasthan,Beauty,Moisturizer,2,1038,0.15,1764.6,1147.5,Marketplace,Net Banking
+ORD10210,2025-07-23,Karnataka,Home & Kitchen,Storage Box,2,444,0.05,843.6,522.58,Marketplace,Card
+ORD10211,2024-07-09,Delhi,Beauty,Moisturizer,3,1162,0.2,2788.8,2186.5,Marketplace,COD
+ORD10212,2025-06-08,Rajasthan,Grocery,Tea,1,265,0.1,238.5,154.67,Website,Net Banking
+ORD10213,2025-07-30,Uttar Pradesh,Grocery,Tea,2,128,0.1,230.4,182.51,Website,COD
+ORD10214,2024-11-24,West Bengal,Home & Kitchen,Mixer Grinder,2,1671,0.15,2840.7,1784.96,Website,Card
+ORD10215,2025-06-22,Rajasthan,Electronics,Smart Watch,2,5251,0.0,10502.0,8821.04,Mobile App,Card
+ORD10216,2024-07-18,Uttar Pradesh,Grocery,Tea,2,816,0.15,1387.2,1146.31,Mobile App,Card
+ORD10217,2024-02-27,Delhi,Fashion,Sneakers,3,1922,0.15,4901.1,3165.42,Marketplace,COD
+ORD10218,2024-03-11,Gujarat,Electronics,Smart Watch,1,1522,0.0,1522.0,1258.64,Marketplace,COD
+ORD10219,2024-11-22,Rajasthan,Home & Kitchen,Storage Box,2,1450,0.05,2755.0,1810.55,Website,Card
+ORD10220,2025-10-21,Karnataka,Fashion,Sneakers,2,1149,0.1,2068.2,1408.28,Website,Card
+ORD10221,2024-04-03,Uttar Pradesh,Beauty,Moisturizer,4,433,0.2,1385.6,991.69,Marketplace,Net Banking
+ORD10222,2024-11-29,West Bengal,Beauty,Moisturizer,1,874,0.05,830.3,501.6,Mobile App,COD
+ORD10223,2025-05-29,West Bengal,Electronics,Wireless Earbuds,3,5459,0.15,13920.45,10350.22,Mobile App,Card
+ORD10224,2024-05-27,Tamil Nadu,Beauty,Moisturizer,4,159,0.0,636.0,511.15,Marketplace,COD
+ORD10225,2025-06-11,Delhi,Home & Kitchen,Bedsheet,1,1521,0.0,1521.0,919.19,Marketplace,COD
+ORD10226,2024-08-11,Gujarat,Beauty,Face Wash,1,1169,0.1,1052.1,694.37,Mobile App,Card
+ORD10227,2025-08-14,Karnataka,Beauty,Face Wash,1,1090,0.1,981.0,811.0,Marketplace,UPI
+ORD10228,2025-02-27,Tamil Nadu,Home & Kitchen,Mixer Grinder,2,596,0.05,1132.4,832.91,Mobile App,Net Banking
+ORD10229,2025-02-03,Karnataka,Beauty,Sunscreen,4,123,0.05,467.4,306.03,Website,UPI
+ORD10230,2024-05-09,Uttar Pradesh,Beauty,Sunscreen,2,155,0.05,294.5,176.96,Website,Card
+ORD10231,2024-12-04,Maharashtra,Fashion,Backpack,2,569,0.05,1081.1,790.19,Mobile App,Card
+ORD10232,2025-09-18,Rajasthan,Grocery,Tea,1,252,0.05,239.4,174.19,Mobile App,UPI
+ORD10233,2024-01-15,West Bengal,Fashion,Kurta,3,1437,0.1,3879.9,2317.32,Marketplace,COD
+ORD10234,2025-07-08,Rajasthan,Grocery,Tea,1,526,0.0,526.0,380.06,Marketplace,Card
+ORD10235,2024-12-26,West Bengal,Fashion,Backpack,4,361,0.0,1444.0,1149.4,Website,Card
+ORD10236,2025-06-09,Karnataka,Home & Kitchen,Mixer Grinder,4,3694,0.05,14037.2,9479.48,Mobile App,COD
+ORD10237,2025-04-29,Rajasthan,Fashion,Sneakers,2,1831,0.05,3478.9,2153.39,Marketplace,UPI
+ORD10238,2024-11-11,Maharashtra,Beauty,Moisturizer,1,1035,0.0,1035.0,602.62,Website,UPI
+ORD10239,2024-08-13,Karnataka,Fashion,Backpack,1,892,0.0,892.0,654.69,Marketplace,Net Banking
+ORD10240,2025-04-03,Karnataka,Fashion,Sneakers,1,1609,0.0,1609.0,985.06,Mobile App,COD
+ORD10241,2024-04-12,Tamil Nadu,Beauty,Moisturizer,1,625,0.15,531.25,342.28,Mobile App,COD
+ORD10242,2025-03-02,West Bengal,Fashion,Backpack,2,2350,0.05,4465.0,3213.61,Marketplace,Card
+ORD10243,2024-03-10,Uttar Pradesh,Fashion,Kurta,2,2448,0.15,4161.6,2547.73,Website,Net Banking
+ORD10244,2025-04-20,Uttar Pradesh,Beauty,Sunscreen,1,903,0.1,812.7,604.83,Website,Net Banking
+ORD10245,2025-04-04,Uttar Pradesh,Electronics,Power Bank,4,5253,0.1,18910.8,15673.51,Mobile App,UPI
+ORD10246,2024-03-02,Maharashtra,Beauty,Moisturizer,2,1197,0.0,2394.0,1724.29,Mobile App,Card
+ORD10247,2025-07-07,Tamil Nadu,Grocery,Rice,1,558,0.1,502.2,377.11,Marketplace,UPI
+ORD10248,2024-10-30,Tamil Nadu,Beauty,Face Wash,4,700,0.0,2800.0,1822.86,Marketplace,COD
+ORD10249,2025-07-29,West Bengal,Grocery,Dry Fruits,3,565,0.0,1695.0,1306.58,Marketplace,Card
+ORD10250,2024-01-31,Rajasthan,Home & Kitchen,Storage Box,3,2976,0.1,8035.2,5746.26,Website,Card
+ORD10251,2024-05-11,West Bengal,Fashion,Kurta,4,1126,0.15,3828.4,2723.29,Website,Net Banking
+ORD10252,2024-12-27,Rajasthan,Electronics,Wireless Earbuds,2,1029,0.15,1749.3,1065.0,Marketplace,COD
+ORD10253,2024-05-17,West Bengal,Grocery,Dry Fruits,1,837,0.15,711.45,509.23,Mobile App,COD
+ORD10254,2024-08-29,Gujarat,Fashion,Backpack,4,1396,0.2,4467.2,3554.01,Marketplace,Card
+ORD10255,2025-04-27,Gujarat,Grocery,Tea,3,516,0.1,1393.2,975.62,Mobile App,Net Banking
+ORD10256,2024-04-15,Maharashtra,Electronics,Wireless Earbuds,1,5153,0.0,5153.0,3723.76,Marketplace,UPI
+ORD10257,2025-05-10,West Bengal,Fashion,Kurta,2,2077,0.15,3530.9,2186.54,Marketplace,UPI
+ORD10258,2024-03-16,Gujarat,Grocery,Dry Fruits,4,585,0.1,2106.0,1230.5,Website,Net Banking
+ORD10259,2024-05-08,Uttar Pradesh,Grocery,Rice,1,90,0.05,85.5,60.86,Mobile App,COD
+ORD10260,2025-03-05,West Bengal,Fashion,Backpack,1,1460,0.0,1460.0,968.15,Marketplace,Card
+ORD10261,2025-08-03,West Bengal,Home & Kitchen,Bedsheet,1,2664,0.0,2664.0,2024.96,Website,UPI
+ORD10262,2024-05-04,Gujarat,Fashion,Kurta,2,368,0.1,662.4,473.16,Marketplace,COD
+ORD10263,2024-08-07,Gujarat,Fashion,Sneakers,2,1897,0.2,3035.2,1772.89,Mobile App,COD
+ORD10264,2025-11-07,Gujarat,Beauty,Moisturizer,4,789,0.15,2682.6,1641.2,Website,Net Banking
+ORD10265,2025-12-24,Rajasthan,Fashion,Kurta,2,1080,0.0,2160.0,1502.86,Mobile App,UPI
+ORD10266,2025-02-28,West Bengal,Electronics,Wireless Earbuds,2,1340,0.1,2412.0,1476.98,Marketplace,Card
+ORD10267,2024-11-22,Rajasthan,Beauty,Sunscreen,2,1131,0.2,1809.6,1243.04,Marketplace,COD
+ORD10268,2024-09-10,Tamil Nadu,Home & Kitchen,Storage Box,4,631,0.0,2524.0,1901.01,Website,Card
+ORD10269,2025-03-23,Karnataka,Fashion,Backpack,4,1461,0.0,5844.0,4140.52,Website,Card
+ORD10270,2025-03-07,West Bengal,Grocery,Rice,4,825,0.0,3300.0,2713.51,Marketplace,COD
+ORD10271,2024-08-03,Tamil Nadu,Electronics,Smart Watch,3,4274,0.0,12822.0,7711.55,Mobile App,Net Banking
+ORD10272,2024-01-17,Delhi,Grocery,Rice,3,278,0.0,834.0,662.17,Mobile App,UPI
+ORD10273,2024-04-20,Karnataka,Beauty,Sunscreen,4,429,0.0,1716.0,1388.62,Marketplace,Net Banking
+ORD10274,2025-12-01,Delhi,Beauty,Face Wash,3,1192,0.15,3039.6,2351.41,Website,Card
+ORD10275,2024-11-01,Gujarat,Grocery,Dry Fruits,1,166,0.0,166.0,132.56,Mobile App,Net Banking
+ORD10276,2024-12-18,West Bengal,Fashion,Sneakers,1,1381,0.0,1381.0,1007.38,Mobile App,Card
+ORD10277,2024-12-07,Uttar Pradesh,Fashion,Sneakers,3,927,0.1,2502.9,1777.7,Mobile App,Net Banking
+ORD10278,2025-07-26,Rajasthan,Grocery,Dry Fruits,3,557,0.0,1671.0,1222.33,Mobile App,Card
+ORD10279,2024-02-17,Delhi,Beauty,Sunscreen,2,304,0.05,577.6,477.47,Mobile App,UPI
+ORD10280,2024-03-01,Rajasthan,Grocery,Tea,4,736,0.0,2944.0,2008.57,Marketplace,Net Banking
+ORD10281,2024-07-20,Tamil Nadu,Grocery,Dry Fruits,3,746,0.1,2014.2,1413.54,Marketplace,Card
+ORD10282,2024-12-21,Maharashtra,Fashion,Sneakers,1,1714,0.0,1714.0,1056.29,Website,Net Banking
+ORD10283,2025-05-05,West Bengal,Grocery,Tea,2,89,0.1,160.2,114.25,Marketplace,Card
+ORD10284,2024-12-24,Rajasthan,Fashion,Backpack,2,669,0.0,1338.0,912.92,Mobile App,Net Banking
+ORD10285,2024-11-18,Rajasthan,Grocery,Tea,3,353,0.0,1059.0,740.89,Website,UPI
+ORD10286,2025-11-16,Rajasthan,Home & Kitchen,Mixer Grinder,3,3961,0.0,11883.0,9255.09,Marketplace,Card
+ORD10287,2024-04-27,Uttar Pradesh,Home & Kitchen,Storage Box,1,949,0.0,949.0,606.01,Marketplace,COD
+ORD10288,2025-02-21,Rajasthan,Grocery,Tea,1,823,0.1,740.7,559.44,Mobile App,COD
+ORD10289,2025-01-31,Tamil Nadu,Home & Kitchen,Bedsheet,4,626,0.0,2504.0,2067.43,Mobile App,UPI
+ORD10290,2024-12-12,Rajasthan,Beauty,Face Wash,4,294,0.15,999.6,592.47,Website,Net Banking
+ORD10291,2025-08-13,Rajasthan,Beauty,Moisturizer,3,229,0.0,687.0,419.35,Website,UPI
+ORD10292,2024-07-14,Gujarat,Beauty,Face Wash,2,867,0.05,1647.3,1355.87,Mobile App,Card
+ORD10293,2025-11-28,Tamil Nadu,Home & Kitchen,Storage Box,3,3024,0.15,7711.2,5634.67,Mobile App,Net Banking
+ORD10294,2024-08-30,Delhi,Fashion,Sneakers,3,1994,0.0,5982.0,4396.31,Mobile App,UPI
+ORD10295,2025-02-02,Maharashtra,Fashion,Kurta,3,1557,0.0,4671.0,2763.79,Marketplace,UPI
+ORD10296,2025-01-15,Karnataka,Beauty,Moisturizer,1,723,0.1,650.7,450.93,Website,Net Banking
+ORD10297,2025-09-13,Uttar Pradesh,Beauty,Face Wash,3,1068,0.2,2563.2,1979.2,Mobile App,UPI
+ORD10298,2024-11-16,Delhi,Fashion,Backpack,4,1919,0.05,7292.2,5796.33,Marketplace,COD
+ORD10299,2024-07-27,Delhi,Fashion,Sneakers,4,1387,0.0,5548.0,4352.99,Mobile App,COD
+ORD10300,2024-01-16,Maharashtra,Home & Kitchen,Storage Box,1,1639,0.0,1639.0,1277.69,Marketplace,Card
+ORD10301,2024-09-22,Delhi,Beauty,Moisturizer,2,564,0.1,1015.2,836.81,Mobile App,Net Banking
+ORD10302,2025-08-27,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,3924,0.0,11772.0,7146.84,Mobile App,Card
+ORD10303,2024-01-08,West Bengal,Grocery,Tea,4,843,0.0,3372.0,2500.61,Mobile App,UPI
+ORD10304,2025-10-17,Karnataka,Electronics,Smart Watch,1,6517,0.05,6191.15,4442.46,Mobile App,UPI
+ORD10305,2025-01-31,Delhi,Electronics,Wireless Earbuds,1,1380,0.05,1311.0,835.99,Website,Card
+ORD10306,2024-04-12,West Bengal,Grocery,Rice,1,804,0.1,723.6,534.51,Mobile App,Net Banking
+ORD10307,2024-08-08,Delhi,Beauty,Face Wash,2,1057,0.05,2008.3,1365.3,Marketplace,Card
+ORD10308,2025-02-09,West Bengal,Electronics,Smart Watch,4,3789,0.0,15156.0,12427.08,Mobile App,COD
+ORD10309,2024-08-18,Rajasthan,Beauty,Sunscreen,4,284,0.05,1079.2,669.42,Website,Card
+ORD10310,2024-03-20,Uttar Pradesh,Grocery,Dry Fruits,1,534,0.0,534.0,403.32,Mobile App,UPI
+ORD10311,2025-05-01,Tamil Nadu,Electronics,Smart Watch,2,5040,0.1,9072.0,6663.53,Website,Net Banking
+ORD10312,2025-05-06,Karnataka,Home & Kitchen,Storage Box,4,3201,0.0,12804.0,8240.69,Mobile App,UPI
+ORD10313,2024-03-27,Maharashtra,Electronics,Power Bank,4,2179,0.0,8716.0,6003.16,Website,COD
+ORD10314,2024-07-24,Rajasthan,Beauty,Face Wash,4,285,0.0,1140.0,931.93,Marketplace,COD
+ORD10315,2024-06-27,Gujarat,Electronics,Smart Watch,3,1773,0.15,4521.15,3559.45,Marketplace,Net Banking
+ORD10316,2025-04-27,Karnataka,Electronics,Power Bank,3,1501,0.0,4503.0,3283.59,Marketplace,UPI
+ORD10317,2025-06-17,Maharashtra,Fashion,Sneakers,1,857,0.05,814.15,645.68,Mobile App,COD
+ORD10318,2025-06-15,Karnataka,Beauty,Face Wash,3,782,0.0,2346.0,1730.47,Website,UPI
+ORD10319,2025-11-17,West Bengal,Beauty,Face Wash,2,1126,0.1,2026.8,1592.3,Marketplace,UPI
+ORD10320,2025-07-15,Gujarat,Fashion,Backpack,3,1538,0.0,4614.0,3850.86,Marketplace,UPI
+ORD10321,2024-08-22,Gujarat,Beauty,Sunscreen,3,423,0.0,1269.0,991.53,Mobile App,COD
+ORD10322,2024-03-19,West Bengal,Electronics,Wireless Earbuds,1,5500,0.1,4950.0,3769.57,Mobile App,Card
+ORD10323,2025-03-25,Karnataka,Grocery,Dry Fruits,4,347,0.0,1388.0,946.96,Marketplace,COD
+ORD10324,2025-10-31,Karnataka,Home & Kitchen,Mixer Grinder,3,1805,0.15,4602.75,3390.52,Mobile App,Card
+ORD10325,2025-12-13,Gujarat,Home & Kitchen,Storage Box,2,1202,0.2,1923.2,1468.53,Mobile App,Net Banking
+ORD10326,2024-06-17,West Bengal,Electronics,Wireless Earbuds,1,4376,0.1,3938.4,2742.39,Mobile App,COD
+ORD10327,2024-06-21,Delhi,Fashion,Backpack,1,992,0.0,992.0,804.02,Website,Net Banking
+ORD10328,2024-01-28,Tamil Nadu,Beauty,Face Wash,4,655,0.0,2620.0,1666.45,Mobile App,Card
+ORD10329,2024-04-13,West Bengal,Fashion,Sneakers,4,605,0.05,2299.0,1600.03,Mobile App,COD
+ORD10330,2025-02-09,West Bengal,Electronics,Wireless Earbuds,3,1207,0.15,3077.85,2364.17,Website,Net Banking
+ORD10331,2025-02-03,Maharashtra,Electronics,Power Bank,3,2892,0.0,8676.0,5532.75,Website,UPI
+ORD10332,2024-09-28,Maharashtra,Beauty,Face Wash,4,461,0.05,1751.8,1265.1,Marketplace,Net Banking
+ORD10333,2024-08-14,Karnataka,Fashion,Backpack,1,691,0.05,656.45,388.84,Website,Card
+ORD10334,2025-08-29,Maharashtra,Fashion,Sneakers,2,673,0.2,1076.8,837.55,Website,COD
+ORD10335,2024-12-02,Gujarat,Electronics,Power Bank,3,2855,0.15,7280.25,4793.8,Website,Card
+ORD10336,2025-08-13,Maharashtra,Beauty,Moisturizer,3,803,0.1,2168.1,1410.04,Marketplace,Card
+ORD10337,2025-12-05,Karnataka,Beauty,Face Wash,4,974,0.0,3896.0,2455.19,Mobile App,Card
+ORD10338,2024-08-19,West Bengal,Electronics,Smart Watch,3,5344,0.0,16032.0,9477.62,Website,COD
+ORD10339,2024-05-28,Tamil Nadu,Home & Kitchen,Storage Box,3,463,0.05,1319.55,869.41,Website,Card
+ORD10340,2025-11-27,Gujarat,Grocery,Tea,1,107,0.1,96.3,77.35,Website,UPI
+ORD10341,2025-04-09,Uttar Pradesh,Fashion,Kurta,1,961,0.0,961.0,640.27,Website,Net Banking
+ORD10342,2024-07-31,West Bengal,Electronics,Power Bank,4,3688,0.0,14752.0,11298.27,Website,COD
+ORD10343,2025-03-30,Gujarat,Electronics,Power Bank,1,1396,0.1,1256.4,1051.0,Marketplace,UPI
+ORD10344,2025-01-11,Rajasthan,Beauty,Moisturizer,4,163,0.05,619.4,359.95,Website,COD
+ORD10345,2025-10-23,West Bengal,Beauty,Sunscreen,4,1012,0.0,4048.0,2432.61,Marketplace,UPI
+ORD10346,2024-07-06,Uttar Pradesh,Grocery,Tea,1,578,0.1,520.2,396.38,Website,COD
+ORD10347,2025-12-25,Karnataka,Beauty,Moisturizer,2,730,0.15,1241.0,965.49,Marketplace,Net Banking
+ORD10348,2025-11-15,Uttar Pradesh,Grocery,Dry Fruits,3,150,0.0,450.0,273.81,Marketplace,UPI
+ORD10349,2024-05-12,Karnataka,Beauty,Moisturizer,1,1173,0.0,1173.0,908.44,Mobile App,COD
+ORD10350,2024-04-30,Rajasthan,Electronics,Power Bank,2,1264,0.1,2275.2,1731.07,Website,UPI
+ORD10351,2025-01-24,Maharashtra,Beauty,Sunscreen,4,438,0.05,1664.4,1155.48,Website,UPI
+ORD10352,2024-02-02,West Bengal,Home & Kitchen,Bedsheet,1,307,0.0,307.0,206.41,Marketplace,Card
+ORD10353,2024-08-06,Karnataka,Beauty,Sunscreen,4,969,0.0,3876.0,2808.61,Mobile App,Card
+ORD10354,2024-11-14,Tamil Nadu,Grocery,Rice,4,499,0.0,1996.0,1411.44,Marketplace,UPI
+ORD10355,2025-12-09,Maharashtra,Fashion,Backpack,1,2081,0.0,2081.0,1249.9,Marketplace,Card
+ORD10356,2025-12-26,Maharashtra,Electronics,Wireless Earbuds,2,6008,0.1,10814.4,8947.85,Website,UPI
+ORD10357,2024-04-20,Maharashtra,Grocery,Dry Fruits,2,662,0.1,1191.6,945.12,Mobile App,Card
+ORD10358,2025-10-13,Uttar Pradesh,Home & Kitchen,Mixer Grinder,2,2632,0.0,5264.0,3182.09,Website,UPI
+ORD10359,2024-03-07,Tamil Nadu,Grocery,Rice,1,153,0.05,145.35,97.63,Marketplace,COD
+ORD10360,2025-07-01,Rajasthan,Home & Kitchen,Bedsheet,2,287,0.05,545.3,384.22,Website,UPI
+ORD10361,2025-09-10,West Bengal,Electronics,Power Bank,2,2778,0.1,5000.4,2961.81,Website,UPI
+ORD10362,2025-10-13,West Bengal,Electronics,Smart Watch,3,2788,0.05,7945.8,5882.48,Mobile App,Card
+ORD10363,2024-06-12,West Bengal,Home & Kitchen,Mixer Grinder,1,631,0.0,631.0,368.03,Mobile App,Net Banking
+ORD10364,2025-10-15,Delhi,Beauty,Face Wash,4,1034,0.15,3515.6,2501.99,Mobile App,UPI
+ORD10365,2024-03-25,Karnataka,Electronics,Power Bank,2,2504,0.05,4757.6,3194.02,Mobile App,COD
+ORD10366,2025-01-14,Rajasthan,Grocery,Dry Fruits,2,688,0.0,1376.0,835.11,Marketplace,COD
+ORD10367,2024-12-09,Tamil Nadu,Home & Kitchen,Storage Box,4,2461,0.05,9351.8,5503.96,Website,Net Banking
+ORD10368,2024-08-18,Tamil Nadu,Electronics,Wireless Earbuds,2,2041,0.05,3877.9,2932.72,Website,COD
+ORD10369,2024-01-17,Tamil Nadu,Grocery,Tea,1,569,0.0,569.0,378.89,Marketplace,Card
+ORD10370,2025-07-18,Uttar Pradesh,Beauty,Moisturizer,1,1084,0.15,921.4,573.5,Mobile App,COD
+ORD10371,2024-09-02,Maharashtra,Beauty,Moisturizer,3,688,0.2,1651.2,1080.8,Marketplace,Card
+ORD10372,2025-04-28,Tamil Nadu,Grocery,Rice,3,871,0.15,2221.05,1541.88,Website,Card
+ORD10373,2024-10-26,Rajasthan,Grocery,Tea,2,103,0.1,185.4,152.21,Website,COD
+ORD10374,2024-09-30,Rajasthan,Electronics,Wireless Earbuds,3,3764,0.05,10727.4,8752.18,Website,Net Banking
+ORD10375,2025-10-09,West Bengal,Grocery,Dry Fruits,2,494,0.0,988.0,742.28,Website,COD
+ORD10376,2024-03-10,Tamil Nadu,Home & Kitchen,Bedsheet,1,2565,0.1,2308.5,1373.32,Website,Net Banking
+ORD10377,2025-06-22,Gujarat,Fashion,Backpack,2,901,0.0,1802.0,1292.85,Website,Net Banking
+ORD10378,2025-06-29,Tamil Nadu,Grocery,Dry Fruits,4,227,0.2,726.4,468.13,Marketplace,UPI
+ORD10379,2024-10-04,Rajasthan,Electronics,Smart Watch,4,2838,0.1,10216.8,6627.11,Website,UPI
+ORD10380,2024-07-10,Gujarat,Electronics,Power Bank,2,1431,0.1,2575.8,1713.7,Marketplace,Net Banking
+ORD10381,2024-01-04,Karnataka,Electronics,Power Bank,4,4267,0.2,13654.4,10696.77,Marketplace,UPI
+ORD10382,2025-11-15,Rajasthan,Grocery,Tea,1,466,0.0,466.0,305.2,Marketplace,Net Banking
+ORD10383,2025-11-23,Tamil Nadu,Electronics,Power Bank,1,4642,0.2,3713.6,2577.96,Mobile App,Net Banking
+ORD10384,2024-06-25,Rajasthan,Home & Kitchen,Bedsheet,2,2833,0.15,4816.1,3960.51,Website,COD
+ORD10385,2024-01-24,Maharashtra,Fashion,Sneakers,2,478,0.1,860.4,666.75,Marketplace,Card
+ORD10386,2024-03-30,Uttar Pradesh,Beauty,Sunscreen,1,755,0.15,641.75,474.0,Mobile App,UPI
+ORD10387,2024-02-19,West Bengal,Home & Kitchen,Storage Box,1,3093,0.15,2629.05,1807.86,Mobile App,Card
+ORD10388,2025-08-30,Delhi,Electronics,Smart Watch,3,6803,0.15,17347.65,13134.89,Mobile App,Card
+ORD10389,2025-10-13,West Bengal,Home & Kitchen,Storage Box,3,3954,0.15,10082.7,7828.17,Mobile App,Net Banking
+ORD10390,2024-04-22,Rajasthan,Electronics,Wireless Earbuds,3,5821,0.0,17463.0,11858.15,Marketplace,COD
+ORD10391,2025-06-29,West Bengal,Grocery,Rice,3,766,0.05,2183.1,1293.85,Website,UPI
+ORD10392,2024-05-11,Maharashtra,Home & Kitchen,Mixer Grinder,1,1368,0.1,1231.2,763.54,Website,Card
+ORD10393,2024-09-25,Delhi,Fashion,Backpack,3,1488,0.0,4464.0,3135.73,Mobile App,Net Banking
+ORD10394,2025-03-14,Tamil Nadu,Grocery,Tea,1,610,0.0,610.0,436.15,Website,Card
+ORD10395,2025-06-10,Tamil Nadu,Electronics,Power Bank,4,3889,0.05,14778.2,11303.52,Mobile App,UPI
+ORD10396,2025-10-01,Rajasthan,Grocery,Dry Fruits,1,724,0.05,687.8,548.64,Website,Card
+ORD10397,2024-02-02,Maharashtra,Electronics,Power Bank,4,1670,0.0,6680.0,4546.57,Marketplace,Card
+ORD10398,2024-05-23,Rajasthan,Fashion,Backpack,3,462,0.05,1316.7,1011.02,Mobile App,Net Banking
+ORD10399,2024-07-24,Uttar Pradesh,Grocery,Dry Fruits,4,719,0.0,2876.0,2269.19,Website,UPI
+ORD10400,2024-08-14,Rajasthan,Grocery,Rice,1,545,0.15,463.25,383.26,Website,Card
+ORD10401,2025-12-30,Tamil Nadu,Beauty,Face Wash,2,1185,0.15,2014.5,1170.51,Website,UPI
+ORD10402,2025-07-22,Karnataka,Fashion,Sneakers,1,796,0.1,716.4,581.34,Marketplace,COD
+ORD10403,2024-08-22,Maharashtra,Home & Kitchen,Storage Box,2,849,0.2,1358.4,1007.49,Website,COD
+ORD10404,2025-12-11,West Bengal,Home & Kitchen,Mixer Grinder,4,1529,0.1,5504.4,4112.39,Website,UPI
+ORD10405,2024-12-30,Tamil Nadu,Fashion,Kurta,4,1437,0.1,5173.2,3083.6,Marketplace,UPI
+ORD10406,2025-01-01,Uttar Pradesh,Fashion,Kurta,4,1475,0.15,5015.0,3138.79,Mobile App,UPI
+ORD10407,2024-11-13,West Bengal,Beauty,Sunscreen,2,414,0.15,703.8,462.61,Website,Net Banking
+ORD10408,2024-04-15,Maharashtra,Fashion,Sneakers,1,998,0.05,948.1,766.69,Mobile App,UPI
+ORD10409,2025-11-14,Karnataka,Fashion,Kurta,4,1349,0.0,5396.0,3718.66,Website,Card
+ORD10410,2024-01-11,Tamil Nadu,Electronics,Power Bank,2,1465,0.0,2930.0,1962.87,Marketplace,Net Banking
+ORD10411,2024-05-07,Uttar Pradesh,Beauty,Sunscreen,2,441,0.0,882.0,680.77,Website,Net Banking
+ORD10412,2024-06-16,Karnataka,Home & Kitchen,Storage Box,2,3104,0.2,4966.4,3674.81,Mobile App,Card
+ORD10413,2024-07-23,Karnataka,Beauty,Face Wash,1,970,0.1,873.0,602.49,Website,COD
+ORD10414,2024-04-06,Maharashtra,Electronics,Smart Watch,1,1039,0.1,935.1,708.73,Mobile App,UPI
+ORD10415,2024-01-14,Maharashtra,Electronics,Wireless Earbuds,3,2853,0.1,7703.1,6205.43,Marketplace,Net Banking
+ORD10416,2025-05-10,Gujarat,Grocery,Rice,4,392,0.15,1332.8,1096.92,Mobile App,Card
+ORD10417,2025-12-09,Rajasthan,Electronics,Smart Watch,3,3992,0.15,10179.6,8019.82,Marketplace,COD
+ORD10418,2024-03-30,West Bengal,Fashion,Sneakers,3,1965,0.1,5305.5,3876.09,Marketplace,UPI
+ORD10419,2024-08-04,Delhi,Beauty,Sunscreen,1,1155,0.05,1097.25,696.66,Website,UPI
+ORD10420,2025-01-05,Karnataka,Grocery,Dry Fruits,3,246,0.15,627.3,414.32,Mobile App,UPI
+ORD10421,2025-11-09,Delhi,Grocery,Tea,3,696,0.05,1983.6,1327.81,Website,Card
+ORD10422,2025-05-22,Karnataka,Fashion,Kurta,4,663,0.0,2652.0,1709.64,Marketplace,UPI
+ORD10423,2025-07-14,Karnataka,Home & Kitchen,Storage Box,4,1513,0.1,5446.8,4490.16,Marketplace,Card
+ORD10424,2025-02-28,Gujarat,Beauty,Moisturizer,4,650,0.0,2600.0,2020.42,Website,Net Banking
+ORD10425,2024-10-31,Maharashtra,Beauty,Face Wash,2,571,0.05,1084.9,890.97,Marketplace,COD
+ORD10426,2024-05-26,Karnataka,Electronics,Power Bank,2,4647,0.0,9294.0,5761.5,Website,COD
+ORD10427,2025-09-23,Karnataka,Electronics,Smart Watch,3,4823,0.0,14469.0,8450.63,Website,UPI
+ORD10428,2025-08-10,Gujarat,Fashion,Sneakers,1,344,0.1,309.6,254.89,Website,Net Banking
+ORD10429,2024-01-19,West Bengal,Grocery,Rice,4,130,0.05,494.0,336.64,Mobile App,UPI
+ORD10430,2025-06-06,Gujarat,Fashion,Kurta,3,2150,0.05,6127.5,3603.47,Mobile App,COD
+ORD10431,2024-03-02,Delhi,Fashion,Sneakers,2,584,0.1,1051.2,739.77,Mobile App,Net Banking
+ORD10432,2025-06-24,Gujarat,Home & Kitchen,Bedsheet,2,545,0.0,1090.0,857.51,Mobile App,Card
+ORD10433,2025-08-26,Karnataka,Fashion,Backpack,4,1431,0.2,4579.2,3261.17,Marketplace,COD
+ORD10434,2024-04-05,Karnataka,Beauty,Moisturizer,1,577,0.05,548.15,373.65,Mobile App,COD
+ORD10435,2024-11-13,Rajasthan,Fashion,Kurta,2,618,0.0,1236.0,867.91,Website,Net Banking
+ORD10436,2024-03-31,Tamil Nadu,Beauty,Face Wash,2,470,0.0,940.0,696.76,Marketplace,Card
+ORD10437,2025-02-18,Maharashtra,Electronics,Smart Watch,4,2062,0.2,6598.4,4534.43,Website,UPI
+ORD10438,2025-11-09,West Bengal,Grocery,Tea,1,508,0.1,457.2,320.29,Website,Net Banking
+ORD10439,2024-02-29,Rajasthan,Fashion,Kurta,3,490,0.0,1470.0,907.05,Mobile App,Card
+ORD10440,2024-10-17,Karnataka,Home & Kitchen,Storage Box,3,3811,0.05,10861.35,6676.57,Mobile App,UPI
+ORD10441,2025-12-12,Uttar Pradesh,Home & Kitchen,Mixer Grinder,3,2893,0.05,8245.05,6215.19,Marketplace,Card
+ORD10442,2024-08-07,Delhi,Grocery,Rice,3,104,0.15,265.2,180.46,Mobile App,Card
+ORD10443,2024-04-06,Rajasthan,Electronics,Wireless Earbuds,2,4015,0.05,7628.5,4856.59,Marketplace,UPI
+ORD10444,2024-12-23,Tamil Nadu,Fashion,Kurta,4,756,0.15,2570.4,1583.63,Website,Net Banking
+ORD10445,2025-01-06,Delhi,Beauty,Moisturizer,4,879,0.05,3340.2,2166.2,Mobile App,Card
+ORD10446,2025-04-29,Maharashtra,Beauty,Moisturizer,2,198,0.0,396.0,292.31,Marketplace,UPI
+ORD10447,2024-08-17,Karnataka,Fashion,Backpack,2,1935,0.0,3870.0,2672.66,Marketplace,COD
+ORD10448,2025-11-29,West Bengal,Grocery,Dry Fruits,3,245,0.15,624.75,379.57,Website,Card
+ORD10449,2025-01-15,Delhi,Fashion,Kurta,3,584,0.0,1752.0,1057.32,Mobile App,COD
+ORD10450,2024-07-28,Maharashtra,Electronics,Wireless Earbuds,2,1231,0.05,2338.9,1476.35,Mobile App,UPI
+ORD10451,2025-12-02,Tamil Nadu,Beauty,Face Wash,4,862,0.1,3103.2,1870.32,Mobile App,UPI
+ORD10452,2025-11-07,Maharashtra,Home & Kitchen,Mixer Grinder,1,1068,0.05,1014.6,849.74,Mobile App,Net Banking
+ORD10453,2024-12-30,Gujarat,Grocery,Dry Fruits,3,345,0.0,1035.0,604.1,Website,Net Banking
+ORD10454,2024-01-19,Karnataka,Home & Kitchen,Storage Box,2,2672,0.15,4542.4,2919.19,Website,COD
+ORD10455,2025-03-12,West Bengal,Home & Kitchen,Mixer Grinder,1,821,0.1,738.9,479.24,Website,UPI
+ORD10456,2025-02-09,Karnataka,Grocery,Rice,1,611,0.05,580.45,349.9,Website,COD
+ORD10457,2024-04-18,Delhi,Grocery,Tea,4,819,0.1,2948.4,2435.94,Mobile App,COD
+ORD10458,2025-04-08,Karnataka,Beauty,Moisturizer,2,671,0.1,1207.8,872.03,Marketplace,UPI
+ORD10459,2025-09-06,Tamil Nadu,Electronics,Smart Watch,3,2742,0.15,6992.1,4859.66,Marketplace,COD
+ORD10460,2024-03-18,Maharashtra,Electronics,Power Bank,4,5454,0.0,21816.0,14733.4,Website,COD
+ORD10461,2025-06-12,Maharashtra,Home & Kitchen,Storage Box,1,2301,0.15,1955.85,1566.46,Website,Card
+ORD10462,2024-04-12,Gujarat,Grocery,Tea,2,687,0.0,1374.0,1006.31,Website,UPI
+ORD10463,2025-07-01,Delhi,Electronics,Power Bank,3,2544,0.0,7632.0,5206.12,Mobile App,COD
+ORD10464,2024-11-02,Gujarat,Home & Kitchen,Storage Box,1,3303,0.1,2972.7,1844.93,Marketplace,Card
+ORD10465,2024-01-05,Karnataka,Electronics,Smart Watch,2,2500,0.05,4750.0,3895.18,Mobile App,UPI
+ORD10466,2025-12-07,Rajasthan,Beauty,Face Wash,1,229,0.15,194.65,122.33,Website,UPI
+ORD10467,2024-05-01,Tamil Nadu,Fashion,Kurta,1,626,0.15,532.1,349.44,Mobile App,Card
+ORD10468,2025-03-11,Gujarat,Home & Kitchen,Bedsheet,2,2782,0.1,5007.6,4096.14,Mobile App,COD
+ORD10469,2024-05-12,Rajasthan,Fashion,Kurta,3,2259,0.1,6099.3,3962.4,Mobile App,Card
+ORD10470,2025-11-13,Rajasthan,Grocery,Dry Fruits,2,529,0.15,899.3,611.67,Mobile App,Net Banking
+ORD10471,2025-06-23,Rajasthan,Beauty,Face Wash,1,725,0.15,616.25,474.57,Mobile App,UPI
+ORD10472,2025-08-10,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,1539,0.15,3924.45,2999.89,Website,Net Banking
+ORD10473,2024-11-11,Uttar Pradesh,Beauty,Moisturizer,1,176,0.05,167.2,108.07,Website,UPI
+ORD10474,2024-12-07,Tamil Nadu,Beauty,Sunscreen,2,389,0.05,739.1,519.76,Marketplace,COD
+ORD10475,2025-04-08,Gujarat,Electronics,Wireless Earbuds,2,6427,0.0,12854.0,9205.82,Website,COD
+ORD10476,2025-07-27,Uttar Pradesh,Grocery,Tea,2,664,0.05,1261.6,907.7,Mobile App,Card
+ORD10477,2025-09-11,Karnataka,Grocery,Dry Fruits,1,321,0.1,288.9,209.29,Mobile App,COD
+ORD10478,2024-01-14,Maharashtra,Grocery,Dry Fruits,3,713,0.1,1925.1,1358.97,Mobile App,Net Banking
+ORD10479,2025-04-30,Delhi,Grocery,Dry Fruits,3,137,0.05,390.45,234.66,Marketplace,Net Banking
+ORD10480,2024-03-20,Uttar Pradesh,Home & Kitchen,Bedsheet,4,3969,0.15,13494.6,8440.89,Marketplace,UPI
+ORD10481,2024-07-29,Maharashtra,Beauty,Face Wash,1,220,0.1,198.0,153.51,Website,COD
+ORD10482,2025-08-29,Karnataka,Electronics,Smart Watch,2,5416,0.05,10290.4,6272.06,Mobile App,COD
+ORD10483,2024-07-02,Karnataka,Electronics,Wireless Earbuds,1,5009,0.1,4508.1,2827.7,Website,COD
+ORD10484,2025-08-05,Tamil Nadu,Fashion,Sneakers,1,780,0.0,780.0,565.29,Mobile App,Card
+ORD10485,2024-12-04,Delhi,Beauty,Sunscreen,3,549,0.0,1647.0,1028.86,Mobile App,Net Banking
+ORD10486,2024-06-19,Rajasthan,Grocery,Rice,3,885,0.05,2522.25,1796.56,Mobile App,COD
+ORD10487,2024-09-01,Karnataka,Home & Kitchen,Mixer Grinder,2,327,0.15,555.9,371.6,Website,UPI
+ORD10488,2025-01-22,Uttar Pradesh,Electronics,Smart Watch,3,899,0.05,2562.15,2123.02,Marketplace,Card
+ORD10489,2025-07-13,Karnataka,Home & Kitchen,Storage Box,3,1311,0.1,3539.7,2524.07,Mobile App,Card
+ORD10490,2025-03-18,Delhi,Grocery,Rice,4,466,0.15,1584.4,1274.24,Website,UPI
+ORD10491,2025-11-13,West Bengal,Grocery,Tea,3,317,0.1,855.9,498.06,Mobile App,UPI
+ORD10492,2025-09-26,West Bengal,Beauty,Sunscreen,1,288,0.0,288.0,241.49,Marketplace,COD
+ORD10493,2025-07-04,Maharashtra,Electronics,Wireless Earbuds,2,1204,0.15,2046.8,1401.59,Mobile App,UPI
+ORD10494,2025-03-16,Gujarat,Home & Kitchen,Storage Box,3,3325,0.2,7980.0,5355.2,Marketplace,UPI
+ORD10495,2024-07-30,West Bengal,Fashion,Kurta,2,695,0.1,1251.0,894.83,Marketplace,UPI
+ORD10496,2024-10-28,West Bengal,Fashion,Backpack,4,306,0.1,1101.6,883.42,Marketplace,Card
+ORD10497,2024-03-27,Karnataka,Home & Kitchen,Storage Box,4,2569,0.0,10276.0,7432.12,Website,UPI
+ORD10498,2024-09-30,West Bengal,Beauty,Moisturizer,4,229,0.0,916.0,644.18,Website,Net Banking
+ORD10499,2025-11-08,Uttar Pradesh,Beauty,Face Wash,2,979,0.15,1664.3,1020.43,Website,COD
+ORD10500,2024-11-07,Rajasthan,Home & Kitchen,Mixer Grinder,1,1537,0.15,1306.45,934.23,Mobile App,Net Banking
+ORD10501,2024-03-24,Rajasthan,Home & Kitchen,Mixer Grinder,4,2709,0.15,9210.6,6998.25,Marketplace,COD
+ORD10502,2025-04-21,Tamil Nadu,Fashion,Backpack,2,1931,0.1,3475.8,2900.52,Marketplace,COD
+ORD10503,2025-12-04,West Bengal,Home & Kitchen,Mixer Grinder,2,2457,0.05,4668.3,3052.33,Website,Card
+ORD10504,2025-09-26,Gujarat,Home & Kitchen,Mixer Grinder,1,1038,0.0,1038.0,843.93,Website,UPI
+ORD10505,2024-07-19,Tamil Nadu,Grocery,Rice,4,466,0.15,1584.4,1295.99,Website,COD
+ORD10506,2024-11-27,Rajasthan,Electronics,Power Bank,3,1712,0.05,4879.2,3658.83,Website,Card
+ORD10507,2025-01-23,Rajasthan,Home & Kitchen,Bedsheet,3,3086,0.1,8332.2,6561.46,Marketplace,COD
+ORD10508,2024-06-30,West Bengal,Electronics,Smart Watch,2,5594,0.05,10628.6,8582.66,Marketplace,UPI
+ORD10509,2024-07-15,West Bengal,Home & Kitchen,Bedsheet,3,3034,0.0,9102.0,7113.76,Mobile App,Net Banking
+ORD10510,2024-06-22,Maharashtra,Electronics,Wireless Earbuds,1,5000,0.1,4500.0,2877.27,Mobile App,COD
+ORD10511,2025-12-28,Rajasthan,Fashion,Sneakers,3,1551,0.0,4653.0,3071.51,Marketplace,Net Banking
+ORD10512,2025-06-29,Rajasthan,Grocery,Tea,2,739,0.0,1478.0,971.14,Mobile App,Card
+ORD10513,2025-09-06,Gujarat,Home & Kitchen,Mixer Grinder,2,3542,0.0,7084.0,4952.39,Mobile App,Card
+ORD10514,2025-08-19,West Bengal,Home & Kitchen,Mixer Grinder,3,740,0.1,1998.0,1501.93,Website,COD
+ORD10515,2025-12-02,Gujarat,Fashion,Sneakers,3,1778,0.15,4533.9,3125.84,Mobile App,Card
+ORD10516,2024-03-17,Maharashtra,Fashion,Kurta,4,684,0.1,2462.4,2063.23,Marketplace,UPI
+ORD10517,2025-10-06,Karnataka,Electronics,Power Bank,4,2527,0.05,9602.6,7203.76,Mobile App,Net Banking
+ORD10518,2024-02-18,Gujarat,Fashion,Sneakers,4,2434,0.1,8762.4,5632.36,Mobile App,Net Banking
+ORD10519,2024-12-13,Rajasthan,Beauty,Face Wash,2,946,0.05,1797.4,1287.8,Marketplace,UPI
+ORD10520,2025-03-10,Delhi,Grocery,Dry Fruits,1,897,0.05,852.15,683.94,Website,Net Banking
+ORD10521,2024-09-18,Rajasthan,Home & Kitchen,Mixer Grinder,3,2567,0.0,7701.0,5262.43,Mobile App,Net Banking
+ORD10522,2024-04-16,Tamil Nadu,Electronics,Smart Watch,4,1569,0.15,5334.6,3263.3,Mobile App,UPI
+ORD10523,2024-05-20,Tamil Nadu,Fashion,Kurta,3,2202,0.0,6606.0,3977.09,Mobile App,Net Banking
+ORD10524,2025-08-25,Gujarat,Beauty,Sunscreen,4,722,0.1,2599.2,1665.92,Marketplace,COD
+ORD10525,2024-08-20,Uttar Pradesh,Beauty,Sunscreen,3,1045,0.05,2978.25,1797.12,Mobile App,Card
+ORD10526,2024-08-14,Uttar Pradesh,Grocery,Dry Fruits,1,233,0.2,186.4,132.03,Website,Card
+ORD10527,2025-11-05,Delhi,Home & Kitchen,Mixer Grinder,3,1195,0.0,3585.0,2145.0,Marketplace,UPI
+ORD10528,2024-04-15,Rajasthan,Electronics,Smart Watch,3,2938,0.1,7932.6,4651.4,Mobile App,COD
+ORD10529,2025-10-31,West Bengal,Beauty,Sunscreen,4,1066,0.0,4264.0,3205.47,Marketplace,UPI
+ORD10530,2025-11-04,West Bengal,Electronics,Smart Watch,3,6514,0.0,19542.0,13184.8,Mobile App,Net Banking
+ORD10531,2025-03-13,Gujarat,Grocery,Tea,2,481,0.0,962.0,727.52,Marketplace,Net Banking
+ORD10532,2024-05-01,Tamil Nadu,Grocery,Dry Fruits,4,138,0.15,469.2,350.67,Website,Net Banking
+ORD10533,2024-04-23,Rajasthan,Grocery,Tea,4,246,0.0,984.0,820.94,Mobile App,UPI
+ORD10534,2024-07-27,West Bengal,Electronics,Power Bank,2,878,0.2,1404.8,1052.82,Mobile App,COD
+ORD10535,2025-02-26,Delhi,Beauty,Face Wash,4,895,0.2,2864.0,2304.59,Website,UPI
+ORD10536,2024-04-22,Maharashtra,Beauty,Sunscreen,2,429,0.05,815.1,567.4,Mobile App,COD
+ORD10537,2024-11-29,Karnataka,Fashion,Kurta,3,1957,0.0,5871.0,4355.94,Marketplace,Net Banking
+ORD10538,2024-03-25,Delhi,Fashion,Sneakers,1,883,0.0,883.0,574.42,Marketplace,COD
+ORD10539,2025-01-29,Uttar Pradesh,Grocery,Tea,4,224,0.0,896.0,566.43,Website,UPI
+ORD10540,2024-01-16,West Bengal,Home & Kitchen,Bedsheet,1,2392,0.0,2392.0,1580.16,Marketplace,Card
+ORD10541,2025-06-02,Delhi,Fashion,Backpack,3,1294,0.05,3687.9,2973.28,Marketplace,UPI
+ORD10542,2024-02-10,West Bengal,Electronics,Power Bank,3,3594,0.05,10242.9,6162.14,Mobile App,COD
+ORD10543,2024-05-22,Delhi,Electronics,Smart Watch,3,5827,0.0,17481.0,10854.91,Website,Net Banking
+ORD10544,2024-05-07,Uttar Pradesh,Electronics,Power Bank,2,1024,0.0,2048.0,1229.13,Marketplace,Net Banking
+ORD10545,2025-08-30,Uttar Pradesh,Beauty,Sunscreen,4,486,0.2,1555.2,1042.68,Website,Card
+ORD10546,2024-02-09,Maharashtra,Home & Kitchen,Bedsheet,4,269,0.1,968.4,776.83,Mobile App,Card
+ORD10547,2024-11-09,West Bengal,Fashion,Backpack,2,670,0.1,1206.0,1005.99,Mobile App,Net Banking
+ORD10548,2025-03-08,Uttar Pradesh,Fashion,Backpack,2,594,0.05,1128.6,703.7,Website,Card
+ORD10549,2025-01-12,Rajasthan,Home & Kitchen,Storage Box,2,2544,0.1,4579.2,2886.66,Mobile App,Card
+ORD10550,2025-05-12,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,1818,0.0,5454.0,4031.79,Marketplace,UPI
+ORD10551,2025-08-10,Delhi,Beauty,Moisturizer,3,184,0.05,524.4,347.3,Marketplace,UPI
+ORD10552,2024-10-14,Gujarat,Fashion,Sneakers,1,2300,0.0,2300.0,1412.46,Website,COD
+ORD10553,2025-08-28,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,3171,0.0,3171.0,1869.22,Mobile App,COD
+ORD10554,2024-08-20,Tamil Nadu,Beauty,Moisturizer,4,332,0.05,1261.6,890.01,Marketplace,Net Banking
+ORD10555,2025-12-20,Rajasthan,Fashion,Sneakers,2,1691,0.15,2874.7,2042.28,Mobile App,Card
+ORD10556,2025-01-03,Gujarat,Grocery,Dry Fruits,3,520,0.1,1404.0,892.56,Mobile App,COD
+ORD10557,2025-06-22,Delhi,Electronics,Smart Watch,2,3263,0.0,6526.0,3912.33,Mobile App,Card
+ORD10558,2025-10-01,West Bengal,Electronics,Power Bank,2,5580,0.15,9486.0,6945.46,Mobile App,Net Banking
+ORD10559,2025-08-02,Rajasthan,Grocery,Dry Fruits,1,192,0.1,172.8,122.29,Website,Net Banking
+ORD10560,2025-09-14,Maharashtra,Fashion,Backpack,4,994,0.05,3777.2,3018.32,Mobile App,Net Banking
+ORD10561,2025-01-27,Uttar Pradesh,Home & Kitchen,Bedsheet,1,422,0.15,358.7,276.1,Mobile App,COD
+ORD10562,2024-02-01,Gujarat,Home & Kitchen,Bedsheet,2,920,0.05,1748.0,1441.33,Mobile App,Card
+ORD10563,2024-12-26,Delhi,Electronics,Wireless Earbuds,1,2265,0.1,2038.5,1561.05,Website,Card
+ORD10564,2024-05-12,Maharashtra,Beauty,Moisturizer,3,554,0.05,1578.9,1238.76,Marketplace,Net Banking
+ORD10565,2025-10-11,West Bengal,Electronics,Smart Watch,1,2656,0.0,2656.0,2111.26,Website,Card
+ORD10566,2024-06-22,Delhi,Electronics,Power Bank,1,5897,0.0,5897.0,4078.13,Website,Card
+ORD10567,2024-06-15,Karnataka,Electronics,Wireless Earbuds,3,1654,0.1,4465.8,2824.35,Marketplace,UPI
+ORD10568,2024-07-01,Delhi,Grocery,Tea,1,506,0.1,455.4,266.89,Mobile App,Card
+ORD10569,2025-04-14,Tamil Nadu,Grocery,Rice,1,715,0.1,643.5,392.52,Website,Card
+ORD10570,2025-02-21,Maharashtra,Fashion,Kurta,2,1697,0.1,3054.6,2235.85,Marketplace,COD
+ORD10571,2025-11-24,West Bengal,Fashion,Sneakers,4,1564,0.05,5943.2,3678.43,Mobile App,Net Banking
+ORD10572,2024-10-31,Uttar Pradesh,Beauty,Moisturizer,2,1033,0.1,1859.4,1268.85,Mobile App,Net Banking
+ORD10573,2024-07-25,Uttar Pradesh,Fashion,Kurta,4,1339,0.1,4820.4,3398.56,Website,Net Banking
+ORD10574,2024-02-06,Karnataka,Home & Kitchen,Bedsheet,4,2920,0.0,11680.0,9441.87,Website,COD
+ORD10575,2024-01-06,Maharashtra,Grocery,Rice,2,639,0.0,1278.0,781.31,Mobile App,UPI
+ORD10576,2024-09-30,Gujarat,Fashion,Backpack,4,1012,0.1,3643.2,2984.89,Website,Card
+ORD10577,2025-11-07,Rajasthan,Grocery,Rice,3,801,0.05,2282.85,1526.66,Website,COD
+ORD10578,2025-01-17,Gujarat,Home & Kitchen,Mixer Grinder,3,2234,0.1,6031.8,3891.94,Mobile App,COD
+ORD10579,2025-10-15,Delhi,Beauty,Face Wash,4,1181,0.0,4724.0,3794.17,Website,UPI
+ORD10580,2024-03-15,Tamil Nadu,Home & Kitchen,Bedsheet,4,2329,0.1,8384.4,6292.11,Mobile App,COD
+ORD10581,2024-03-09,Delhi,Home & Kitchen,Mixer Grinder,2,1142,0.0,2284.0,1465.27,Marketplace,COD
+ORD10582,2025-09-01,Maharashtra,Fashion,Kurta,2,1872,0.05,3556.8,2288.31,Website,UPI
+ORD10583,2024-03-19,Rajasthan,Fashion,Kurta,1,343,0.1,308.7,229.34,Website,UPI
+ORD10584,2024-02-07,Delhi,Fashion,Backpack,4,1580,0.0,6320.0,4999.68,Website,Net Banking
+ORD10585,2024-10-22,Tamil Nadu,Electronics,Power Bank,4,2188,0.0,8752.0,5833.47,Mobile App,COD
+ORD10586,2025-11-07,Rajasthan,Electronics,Wireless Earbuds,4,2358,0.1,8488.8,5707.81,Mobile App,COD
+ORD10587,2025-05-18,Tamil Nadu,Fashion,Kurta,4,2410,0.1,8676.0,5524.17,Mobile App,Card
+ORD10588,2024-03-13,Rajasthan,Beauty,Moisturizer,1,594,0.1,534.6,407.63,Marketplace,Card
+ORD10589,2025-09-03,Rajasthan,Fashion,Kurta,3,469,0.0,1407.0,922.61,Mobile App,Net Banking
+ORD10590,2025-09-08,Rajasthan,Home & Kitchen,Bedsheet,3,2484,0.15,6334.2,4710.58,Website,COD
+ORD10591,2025-08-08,Rajasthan,Fashion,Sneakers,4,1244,0.0,4976.0,2895.73,Marketplace,UPI
+ORD10592,2025-10-21,West Bengal,Electronics,Power Bank,3,2715,0.0,8145.0,6597.24,Marketplace,Net Banking
+ORD10593,2024-06-24,Tamil Nadu,Electronics,Wireless Earbuds,1,1734,0.0,1734.0,1456.06,Website,Net Banking
+ORD10594,2025-12-17,Delhi,Grocery,Dry Fruits,1,812,0.1,730.8,446.72,Mobile App,Net Banking
+ORD10595,2024-08-22,Gujarat,Home & Kitchen,Mixer Grinder,1,2311,0.0,2311.0,1441.7,Website,Net Banking
+ORD10596,2025-08-09,Tamil Nadu,Fashion,Sneakers,1,2328,0.05,2211.6,1441.57,Website,COD
+ORD10597,2025-02-27,Delhi,Fashion,Kurta,2,803,0.2,1284.8,819.78,Mobile App,Card
+ORD10598,2025-07-23,Tamil Nadu,Electronics,Wireless Earbuds,2,6468,0.05,12289.2,7292.54,Marketplace,Net Banking
+ORD10599,2025-04-03,Uttar Pradesh,Electronics,Smart Watch,3,5660,0.0,16980.0,11668.32,Marketplace,Net Banking
+ORD10600,2025-04-14,Gujarat,Fashion,Sneakers,2,2488,0.1,4478.4,3561.49,Marketplace,Net Banking
+ORD10601,2025-03-26,Rajasthan,Fashion,Sneakers,4,1785,0.15,6069.0,4230.94,Website,Net Banking
+ORD10602,2025-07-23,Tamil Nadu,Fashion,Sneakers,3,2140,0.1,5778.0,4757.45,Website,UPI
+ORD10603,2025-06-24,Tamil Nadu,Electronics,Power Bank,1,4529,0.05,4302.55,3191.99,Website,UPI
+ORD10604,2024-04-08,Delhi,Home & Kitchen,Mixer Grinder,3,2436,0.0,7308.0,5980.43,Mobile App,Net Banking
+ORD10605,2025-08-26,Tamil Nadu,Electronics,Wireless Earbuds,4,1886,0.15,6412.4,4552.86,Website,UPI
+ORD10606,2025-01-26,Tamil Nadu,Electronics,Power Bank,1,2911,0.0,2911.0,2391.82,Website,Card
+ORD10607,2024-08-24,Maharashtra,Fashion,Backpack,1,2005,0.0,2005.0,1506.14,Website,Net Banking
+ORD10608,2025-01-10,Karnataka,Home & Kitchen,Bedsheet,1,1578,0.1,1420.2,991.81,Website,Card
+ORD10609,2025-12-07,Tamil Nadu,Grocery,Dry Fruits,2,420,0.1,756.0,582.65,Mobile App,Card
+ORD10610,2025-09-18,Gujarat,Beauty,Face Wash,1,893,0.15,759.05,449.5,Marketplace,UPI
+ORD10611,2025-09-01,Tamil Nadu,Grocery,Tea,1,493,0.05,468.35,351.76,Mobile App,COD
+ORD10612,2024-12-04,Uttar Pradesh,Electronics,Wireless Earbuds,3,2917,0.05,8313.45,6756.16,Website,COD
+ORD10613,2025-07-27,Gujarat,Beauty,Moisturizer,1,298,0.15,253.3,211.07,Mobile App,Card
+ORD10614,2024-10-08,Maharashtra,Fashion,Backpack,4,1494,0.0,5976.0,4179.53,Mobile App,UPI
+ORD10615,2025-05-16,Rajasthan,Beauty,Face Wash,4,287,0.0,1148.0,800.51,Website,UPI
+ORD10616,2025-04-12,Delhi,Grocery,Dry Fruits,4,278,0.0,1112.0,729.63,Website,UPI
+ORD10617,2024-07-01,West Bengal,Home & Kitchen,Mixer Grinder,2,620,0.05,1178.0,818.7,Website,UPI
+ORD10618,2024-07-13,West Bengal,Electronics,Smart Watch,1,1367,0.05,1298.65,889.97,Marketplace,COD
+ORD10619,2024-02-14,West Bengal,Home & Kitchen,Bedsheet,3,653,0.1,1763.1,1086.18,Website,UPI
+ORD10620,2024-04-12,Tamil Nadu,Fashion,Backpack,2,1313,0.0,2626.0,1593.36,Marketplace,Net Banking
+ORD10621,2024-11-12,West Bengal,Electronics,Smart Watch,3,1185,0.1,3199.5,2584.28,Mobile App,Card
+ORD10622,2024-12-15,Tamil Nadu,Home & Kitchen,Storage Box,2,3962,0.0,7924.0,6420.6,Marketplace,Card
+ORD10623,2024-04-30,Gujarat,Fashion,Kurta,3,2262,0.05,6446.7,5342.05,Marketplace,COD
+ORD10624,2024-10-31,Tamil Nadu,Grocery,Dry Fruits,4,832,0.1,2995.2,1875.67,Mobile App,COD
+ORD10625,2025-03-17,Maharashtra,Beauty,Sunscreen,2,314,0.0,628.0,382.57,Marketplace,COD
+ORD10626,2024-06-19,Delhi,Home & Kitchen,Storage Box,2,3024,0.15,5140.8,3874.74,Marketplace,Net Banking
+ORD10627,2024-09-04,Uttar Pradesh,Grocery,Rice,2,295,0.0,590.0,427.19,Mobile App,Net Banking
+ORD10628,2024-09-25,West Bengal,Beauty,Moisturizer,2,802,0.0,1604.0,1007.03,Marketplace,Card
+ORD10629,2025-01-04,Tamil Nadu,Fashion,Sneakers,4,2440,0.0,9760.0,6665.84,Website,UPI
+ORD10630,2024-09-24,Gujarat,Grocery,Tea,2,731,0.15,1242.7,734.06,Mobile App,UPI
+ORD10631,2025-06-22,Karnataka,Home & Kitchen,Mixer Grinder,4,3704,0.0,14816.0,11543.42,Marketplace,Card
+ORD10632,2024-08-27,Gujarat,Fashion,Sneakers,1,1087,0.1,978.3,778.39,Website,Card
+ORD10633,2024-11-13,Gujarat,Grocery,Rice,3,557,0.0,1671.0,999.34,Marketplace,Net Banking
+ORD10634,2024-10-04,Rajasthan,Beauty,Face Wash,3,1106,0.1,2986.2,2237.4,Marketplace,Net Banking
+ORD10635,2024-05-13,Uttar Pradesh,Fashion,Backpack,3,1021,0.15,2603.55,1946.41,Website,Net Banking
+ORD10636,2025-05-16,Delhi,Electronics,Power Bank,4,3784,0.1,13622.4,10834.42,Website,Card
+ORD10637,2024-06-21,Karnataka,Home & Kitchen,Mixer Grinder,2,363,0.1,653.4,494.8,Website,COD
+ORD10638,2024-08-05,Gujarat,Beauty,Face Wash,1,356,0.1,320.4,201.57,Website,UPI
+ORD10639,2025-08-02,Delhi,Electronics,Power Bank,3,1333,0.15,3399.15,2468.08,Mobile App,Net Banking
+ORD10640,2025-11-24,Karnataka,Grocery,Tea,2,333,0.0,666.0,505.39,Website,UPI
+ORD10641,2025-05-05,Tamil Nadu,Home & Kitchen,Storage Box,2,1690,0.1,3042.0,2341.22,Mobile App,UPI
+ORD10642,2025-10-31,Rajasthan,Electronics,Power Bank,1,3915,0.0,3915.0,2462.81,Marketplace,COD
+ORD10643,2025-09-16,West Bengal,Fashion,Sneakers,2,580,0.05,1102.0,749.41,Mobile App,Net Banking
+ORD10644,2024-12-17,West Bengal,Beauty,Face Wash,1,817,0.15,694.45,570.31,Website,COD
+ORD10645,2025-07-17,Tamil Nadu,Electronics,Smart Watch,1,3546,0.1,3191.4,1927.22,Marketplace,Card
+ORD10646,2024-08-28,Rajasthan,Fashion,Kurta,4,642,0.15,2182.8,1685.29,Website,Net Banking
+ORD10647,2024-12-02,Uttar Pradesh,Home & Kitchen,Mixer Grinder,1,1570,0.05,1491.5,867.34,Mobile App,COD
+ORD10648,2025-01-26,Maharashtra,Beauty,Sunscreen,1,692,0.1,622.8,392.3,Website,UPI
+ORD10649,2025-12-03,Maharashtra,Beauty,Sunscreen,3,931,0.0,2793.0,2207.98,Marketplace,Card
+ORD10650,2025-09-12,Uttar Pradesh,Electronics,Power Bank,3,4963,0.15,12655.65,8023.81,Marketplace,COD
+ORD10651,2024-12-23,Uttar Pradesh,Electronics,Wireless Earbuds,4,2099,0.2,6716.8,3941.02,Website,Card
+ORD10652,2025-04-22,West Bengal,Fashion,Backpack,2,2244,0.0,4488.0,3083.92,Mobile App,COD
+ORD10653,2024-05-27,West Bengal,Home & Kitchen,Mixer Grinder,4,1139,0.15,3872.6,2498.34,Marketplace,Card
+ORD10654,2025-08-11,Tamil Nadu,Fashion,Kurta,1,860,0.0,860.0,638.78,Mobile App,Net Banking
+ORD10655,2025-02-08,Gujarat,Home & Kitchen,Bedsheet,1,1750,0.1,1575.0,954.92,Mobile App,UPI
+ORD10656,2025-01-24,Maharashtra,Home & Kitchen,Storage Box,2,1016,0.0,2032.0,1255.47,Mobile App,COD
+ORD10657,2025-07-14,West Bengal,Beauty,Moisturizer,2,607,0.0,1214.0,993.01,Website,UPI
+ORD10658,2025-04-07,Rajasthan,Electronics,Wireless Earbuds,4,6277,0.05,23852.6,15984.95,Mobile App,Net Banking
+ORD10659,2024-02-22,Gujarat,Fashion,Backpack,2,781,0.0,1562.0,1296.57,Mobile App,UPI
+ORD10660,2024-07-29,West Bengal,Home & Kitchen,Bedsheet,3,2417,0.1,6525.9,4923.4,Website,Card
+ORD10661,2024-05-09,Rajasthan,Grocery,Tea,4,224,0.1,806.4,652.01,Website,COD
+ORD10662,2025-06-21,Karnataka,Fashion,Sneakers,3,628,0.0,1884.0,1178.29,Marketplace,Net Banking
+ORD10663,2024-01-26,Rajasthan,Beauty,Face Wash,3,915,0.15,2333.25,1443.09,Website,COD
+ORD10664,2024-05-27,West Bengal,Home & Kitchen,Bedsheet,4,266,0.1,957.6,767.21,Marketplace,Net Banking
+ORD10665,2025-03-12,Maharashtra,Home & Kitchen,Storage Box,3,1466,0.1,3958.2,3274.04,Mobile App,UPI
+ORD10666,2025-05-22,Rajasthan,Fashion,Sneakers,2,1650,0.1,2970.0,1729.89,Marketplace,COD
+ORD10667,2025-01-02,Delhi,Fashion,Sneakers,3,374,0.05,1065.9,765.56,Website,Card
+ORD10668,2025-09-21,Uttar Pradesh,Grocery,Rice,4,134,0.1,482.4,333.62,Website,COD
+ORD10669,2025-11-02,Maharashtra,Beauty,Face Wash,2,1118,0.1,2012.4,1285.88,Mobile App,UPI
+ORD10670,2024-04-06,Karnataka,Grocery,Dry Fruits,3,307,0.1,828.9,613.21,Marketplace,UPI
+ORD10671,2025-11-27,Gujarat,Grocery,Rice,2,128,0.0,256.0,176.52,Website,Net Banking
+ORD10672,2025-03-25,Karnataka,Home & Kitchen,Mixer Grinder,1,1821,0.1,1638.9,971.06,Website,COD
+ORD10673,2025-04-10,Rajasthan,Electronics,Smart Watch,1,5741,0.1,5166.9,3302.49,Mobile App,Net Banking
+ORD10674,2024-03-10,Delhi,Electronics,Power Bank,2,2536,0.1,4564.8,3075.3,Mobile App,Card
+ORD10675,2025-03-30,Tamil Nadu,Grocery,Tea,3,189,0.1,510.3,351.5,Website,Card
+ORD10676,2025-06-14,Karnataka,Home & Kitchen,Mixer Grinder,1,3973,0.15,3377.05,2535.71,Marketplace,Net Banking
+ORD10677,2025-02-28,Tamil Nadu,Grocery,Rice,3,530,0.05,1510.5,1231.04,Website,Net Banking
+ORD10678,2024-03-02,Karnataka,Home & Kitchen,Mixer Grinder,4,3397,0.0,13588.0,9944.41,Marketplace,Card
+ORD10679,2025-01-17,Uttar Pradesh,Grocery,Tea,4,710,0.15,2414.0,1742.59,Website,UPI
+ORD10680,2025-11-15,Uttar Pradesh,Home & Kitchen,Bedsheet,4,272,0.15,924.8,741.75,Mobile App,UPI
+ORD10681,2025-06-12,Rajasthan,Fashion,Backpack,1,2134,0.05,2027.3,1394.34,Marketplace,Card
+ORD10682,2024-04-10,Tamil Nadu,Grocery,Dry Fruits,1,809,0.2,647.2,490.82,Mobile App,UPI
+ORD10683,2025-12-02,Karnataka,Home & Kitchen,Mixer Grinder,3,3987,0.0,11961.0,9311.41,Website,Card
+ORD10684,2025-12-01,Gujarat,Electronics,Power Bank,4,6981,0.0,27924.0,22775.97,Website,Card
+ORD10685,2024-05-03,West Bengal,Electronics,Wireless Earbuds,3,6295,0.0,18885.0,15629.17,Mobile App,Net Banking
+ORD10686,2025-08-08,Gujarat,Beauty,Face Wash,4,897,0.1,3229.2,2626.0,Mobile App,COD
+ORD10687,2024-10-24,Rajasthan,Home & Kitchen,Mixer Grinder,1,3827,0.2,3061.6,1805.02,Mobile App,Card
+ORD10688,2025-03-09,Maharashtra,Beauty,Face Wash,4,778,0.05,2956.4,1898.95,Website,UPI
+ORD10689,2024-11-21,West Bengal,Beauty,Face Wash,1,490,0.05,465.5,320.01,Mobile App,Net Banking
+ORD10690,2025-07-26,West Bengal,Beauty,Moisturizer,2,985,0.0,1970.0,1412.54,Website,UPI
+ORD10691,2025-12-29,Rajasthan,Fashion,Kurta,3,1769,0.0,5307.0,4451.71,Marketplace,UPI
+ORD10692,2025-08-04,West Bengal,Home & Kitchen,Mixer Grinder,4,588,0.15,1999.2,1581.49,Marketplace,Card
+ORD10693,2025-11-11,Gujarat,Beauty,Sunscreen,1,303,0.1,272.7,202.51,Mobile App,COD
+ORD10694,2025-11-22,Tamil Nadu,Grocery,Rice,3,735,0.1,1984.5,1442.2,Mobile App,COD
+ORD10695,2024-03-06,Rajasthan,Fashion,Backpack,4,1998,0.1,7192.8,5132.62,Website,COD
+ORD10696,2024-07-04,Karnataka,Beauty,Moisturizer,3,977,0.0,2931.0,1967.26,Website,Card
+ORD10697,2025-06-11,Delhi,Home & Kitchen,Storage Box,2,2953,0.05,5610.7,3485.3,Marketplace,COD
+ORD10698,2025-03-07,Karnataka,Fashion,Sneakers,3,2042,0.0,6126.0,4593.73,Mobile App,COD
+ORD10699,2024-02-06,West Bengal,Fashion,Kurta,4,2250,0.0,9000.0,6102.17,Website,COD
+ORD10700,2024-03-10,West Bengal,Fashion,Sneakers,3,1317,0.0,3951.0,2394.41,Marketplace,Net Banking
+ORD10701,2025-01-15,Rajasthan,Beauty,Sunscreen,4,1157,0.0,4628.0,3671.87,Mobile App,COD
+ORD10702,2025-03-26,Uttar Pradesh,Home & Kitchen,Bedsheet,3,2013,0.1,5435.1,4190.21,Marketplace,COD
+ORD10703,2024-05-02,Tamil Nadu,Home & Kitchen,Mixer Grinder,2,2933,0.0,5866.0,4373.97,Website,COD
+ORD10704,2024-05-05,Tamil Nadu,Electronics,Smart Watch,1,1275,0.0,1275.0,975.69,Marketplace,Card
+ORD10705,2024-04-04,Delhi,Fashion,Kurta,1,1387,0.05,1317.65,778.64,Website,Card
+ORD10706,2025-02-16,Tamil Nadu,Electronics,Power Bank,4,6757,0.05,25676.6,20549.27,Mobile App,UPI
+ORD10707,2024-01-06,Tamil Nadu,Beauty,Sunscreen,2,603,0.0,1206.0,960.75,Website,COD
+ORD10708,2025-02-22,Gujarat,Electronics,Power Bank,4,5911,0.1,21279.6,13959.02,Marketplace,UPI
+ORD10709,2024-12-13,Gujarat,Beauty,Sunscreen,3,716,0.0,2148.0,1577.9,Marketplace,Net Banking
+ORD10710,2024-12-06,Uttar Pradesh,Beauty,Sunscreen,4,623,0.1,2242.8,1477.13,Website,COD
+ORD10711,2025-05-11,Gujarat,Home & Kitchen,Mixer Grinder,3,3314,0.0,9942.0,8331.79,Website,Net Banking
+ORD10712,2025-01-17,Maharashtra,Fashion,Sneakers,1,888,0.05,843.6,633.09,Marketplace,Net Banking
+ORD10713,2025-06-15,Maharashtra,Fashion,Backpack,3,2057,0.0,6171.0,4003.06,Website,COD
+ORD10714,2025-07-12,Delhi,Beauty,Moisturizer,2,494,0.05,938.6,555.51,Mobile App,Card
+ORD10715,2025-11-03,Uttar Pradesh,Fashion,Sneakers,4,486,0.0,1944.0,1134.82,Website,Net Banking
+ORD10716,2025-08-07,Rajasthan,Home & Kitchen,Mixer Grinder,2,1088,0.0,2176.0,1613.34,Mobile App,Net Banking
+ORD10717,2025-01-13,Gujarat,Fashion,Sneakers,2,1922,0.2,3075.2,1960.33,Marketplace,Card
+ORD10718,2024-12-25,Tamil Nadu,Fashion,Backpack,1,1765,0.15,1500.25,1001.42,Mobile App,COD
+ORD10719,2024-06-21,Delhi,Beauty,Moisturizer,3,697,0.05,1986.45,1208.04,Marketplace,COD
+ORD10720,2025-03-14,Tamil Nadu,Grocery,Rice,4,707,0.15,2403.8,1932.47,Mobile App,Net Banking
+ORD10721,2024-04-11,Tamil Nadu,Home & Kitchen,Bedsheet,1,2384,0.0,2384.0,1691.81,Mobile App,Net Banking
+ORD10722,2025-11-11,Gujarat,Grocery,Rice,4,875,0.0,3500.0,2599.75,Mobile App,UPI
+ORD10723,2025-09-09,Tamil Nadu,Beauty,Face Wash,4,675,0.15,2295.0,1915.26,Marketplace,COD
+ORD10724,2024-03-28,Maharashtra,Electronics,Smart Watch,4,1595,0.0,6380.0,5232.81,Website,UPI
+ORD10725,2025-07-28,Delhi,Home & Kitchen,Bedsheet,1,716,0.2,572.8,462.78,Marketplace,UPI
+ORD10726,2024-03-26,Uttar Pradesh,Fashion,Backpack,1,1236,0.1,1112.4,933.45,Marketplace,COD
+ORD10727,2025-06-11,Maharashtra,Home & Kitchen,Bedsheet,4,610,0.05,2318.0,1604.71,Mobile App,UPI
+ORD10728,2024-03-05,Maharashtra,Grocery,Dry Fruits,1,847,0.1,762.3,602.31,Website,Net Banking
+ORD10729,2024-12-22,Karnataka,Beauty,Moisturizer,4,1118,0.0,4472.0,3605.36,Mobile App,Net Banking
+ORD10730,2025-04-25,Uttar Pradesh,Fashion,Kurta,2,600,0.0,1200.0,753.09,Website,Net Banking
+ORD10731,2025-06-16,Maharashtra,Electronics,Smart Watch,3,4680,0.15,11934.0,7517.14,Website,UPI
+ORD10732,2024-11-02,Delhi,Home & Kitchen,Bedsheet,1,2826,0.0,2826.0,1895.24,Website,COD
+ORD10733,2025-11-04,Delhi,Beauty,Face Wash,1,263,0.2,210.4,142.52,Website,UPI
+ORD10734,2025-07-20,Maharashtra,Home & Kitchen,Mixer Grinder,3,2258,0.15,5757.9,4589.86,Marketplace,Card
+ORD10735,2024-06-01,Tamil Nadu,Grocery,Dry Fruits,1,381,0.1,342.9,206.45,Mobile App,Card
+ORD10736,2025-05-05,Delhi,Fashion,Kurta,4,1205,0.0,4820.0,3877.3,Mobile App,UPI
+ORD10737,2025-06-18,Tamil Nadu,Fashion,Kurta,3,591,0.0,1773.0,1174.86,Website,Net Banking
+ORD10738,2024-08-31,Gujarat,Electronics,Power Bank,3,1037,0.1,2799.9,1815.73,Website,Card
+ORD10739,2025-06-23,Rajasthan,Grocery,Tea,2,230,0.05,437.0,274.97,Website,Net Banking
+ORD10740,2025-10-18,Rajasthan,Electronics,Smart Watch,3,2446,0.0,7338.0,6008.28,Marketplace,COD
+ORD10741,2025-08-20,Tamil Nadu,Beauty,Sunscreen,2,1129,0.05,2145.1,1298.27,Mobile App,COD
+ORD10742,2025-07-11,Tamil Nadu,Electronics,Wireless Earbuds,1,2675,0.0,2675.0,1948.31,Website,Net Banking
+ORD10743,2025-04-08,Delhi,Grocery,Rice,3,363,0.1,980.1,818.44,Mobile App,COD
+ORD10744,2024-07-16,Gujarat,Fashion,Backpack,2,1236,0.05,2348.4,1588.91,Marketplace,Card
+ORD10745,2025-08-04,Uttar Pradesh,Electronics,Wireless Earbuds,4,4072,0.0,16288.0,12530.18,Marketplace,UPI
+ORD10746,2024-09-23,Maharashtra,Fashion,Backpack,3,1644,0.0,4932.0,3483.73,Marketplace,UPI
+ORD10747,2025-01-24,Delhi,Electronics,Smart Watch,2,5686,0.2,9097.6,6473.3,Mobile App,Card
+ORD10748,2024-08-17,Delhi,Home & Kitchen,Bedsheet,1,3413,0.0,3413.0,2007.4,Website,Net Banking
+ORD10749,2024-08-16,Gujarat,Home & Kitchen,Mixer Grinder,2,1682,0.0,3364.0,2087.04,Mobile App,Card
+ORD10750,2024-04-25,Maharashtra,Beauty,Moisturizer,1,600,0.1,540.0,333.69,Mobile App,COD
+ORD10751,2025-12-03,West Bengal,Beauty,Face Wash,4,365,0.05,1387.0,1131.88,Mobile App,Net Banking
+ORD10752,2024-04-18,Delhi,Grocery,Dry Fruits,1,590,0.1,531.0,423.7,Mobile App,COD
+ORD10753,2024-03-04,Karnataka,Grocery,Rice,1,729,0.0,729.0,440.1,Marketplace,COD
+ORD10754,2025-11-15,Maharashtra,Grocery,Rice,3,230,0.05,655.5,441.04,Website,Net Banking
+ORD10755,2025-02-09,Delhi,Home & Kitchen,Storage Box,4,665,0.0,2660.0,2154.81,Website,COD
+ORD10756,2024-11-16,Uttar Pradesh,Electronics,Smart Watch,3,5266,0.15,13428.3,7918.76,Website,UPI
+ORD10757,2025-06-23,Gujarat,Grocery,Rice,1,101,0.0,101.0,77.67,Website,COD
+ORD10758,2024-10-07,Karnataka,Beauty,Face Wash,3,951,0.05,2710.35,1633.06,Marketplace,Net Banking
+ORD10759,2024-04-03,West Bengal,Electronics,Smart Watch,4,3928,0.15,13355.2,10245.03,Marketplace,Net Banking
+ORD10760,2025-06-17,Rajasthan,Grocery,Dry Fruits,4,339,0.1,1220.4,796.32,Mobile App,Net Banking
+ORD10761,2024-05-08,Uttar Pradesh,Grocery,Tea,4,212,0.1,763.2,460.29,Marketplace,Card
+ORD10762,2025-02-08,Rajasthan,Grocery,Tea,2,345,0.2,552.0,342.07,Website,COD
+ORD10763,2025-11-24,Maharashtra,Electronics,Smart Watch,1,4095,0.1,3685.5,2358.85,Mobile App,COD
+ORD10764,2025-11-15,Rajasthan,Grocery,Tea,1,776,0.1,698.4,478.26,Website,UPI
+ORD10765,2024-09-20,Karnataka,Home & Kitchen,Bedsheet,1,2159,0.1,1943.1,1318.49,Mobile App,COD
+ORD10766,2025-07-24,West Bengal,Fashion,Sneakers,1,1870,0.15,1589.5,1108.62,Mobile App,Card
+ORD10767,2025-03-23,Tamil Nadu,Grocery,Rice,4,485,0.1,1746.0,1363.38,Marketplace,UPI
+ORD10768,2024-12-16,Karnataka,Beauty,Moisturizer,2,659,0.15,1120.3,797.73,Marketplace,Card
+ORD10769,2024-04-12,Gujarat,Home & Kitchen,Bedsheet,1,2200,0.15,1870.0,1259.15,Mobile App,UPI
+ORD10770,2024-10-02,Uttar Pradesh,Fashion,Sneakers,3,1844,0.2,4425.6,3376.7,Marketplace,Card
+ORD10771,2025-04-21,Maharashtra,Beauty,Face Wash,2,392,0.05,744.8,568.65,Marketplace,Card
+ORD10772,2025-12-22,Karnataka,Beauty,Moisturizer,4,1067,0.0,4268.0,3558.76,Mobile App,UPI
+ORD10773,2024-01-04,Delhi,Home & Kitchen,Mixer Grinder,3,1445,0.1,3901.5,3032.78,Marketplace,Card
+ORD10774,2025-06-08,Maharashtra,Electronics,Wireless Earbuds,3,4144,0.0,12432.0,8906.35,Website,UPI
+ORD10775,2025-09-10,Delhi,Electronics,Power Bank,3,6765,0.0,20295.0,11866.12,Marketplace,COD
+ORD10776,2025-11-26,Delhi,Home & Kitchen,Bedsheet,4,3740,0.0,14960.0,12091.98,Mobile App,COD
+ORD10777,2024-11-05,Karnataka,Electronics,Smart Watch,3,4072,0.0,12216.0,7156.8,Website,UPI
+ORD10778,2024-03-27,Delhi,Fashion,Kurta,2,600,0.0,1200.0,982.0,Mobile App,COD
+ORD10779,2024-07-17,Gujarat,Beauty,Moisturizer,1,1061,0.1,954.9,676.71,Marketplace,COD
+ORD10780,2025-09-13,Gujarat,Grocery,Dry Fruits,4,284,0.05,1079.2,817.78,Mobile App,Net Banking
+ORD10781,2025-10-03,Gujarat,Electronics,Wireless Earbuds,1,2564,0.1,2307.6,1786.43,Mobile App,UPI
+ORD10782,2025-04-10,Gujarat,Beauty,Sunscreen,3,362,0.1,977.4,634.64,Website,COD
+ORD10783,2024-03-30,Uttar Pradesh,Home & Kitchen,Storage Box,2,3009,0.15,5115.3,3500.89,Mobile App,Net Banking
+ORD10784,2024-03-30,Rajasthan,Grocery,Dry Fruits,3,821,0.05,2339.85,1507.26,Mobile App,Card
+ORD10785,2024-12-15,West Bengal,Beauty,Sunscreen,1,977,0.2,781.6,633.89,Website,UPI
+ORD10786,2025-03-06,Gujarat,Beauty,Moisturizer,1,401,0.15,340.85,211.91,Website,Net Banking
+ORD10787,2024-01-24,Uttar Pradesh,Electronics,Wireless Earbuds,3,3540,0.1,9558.0,7817.1,Website,Card
+ORD10788,2025-05-16,West Bengal,Home & Kitchen,Bedsheet,4,995,0.0,3980.0,2917.65,Marketplace,COD
+ORD10789,2025-02-02,Gujarat,Beauty,Sunscreen,1,342,0.0,342.0,240.1,Marketplace,Net Banking
+ORD10790,2024-01-09,Delhi,Beauty,Sunscreen,1,1166,0.0,1166.0,742.85,Website,Card
+ORD10791,2024-03-10,Delhi,Electronics,Power Bank,1,2676,0.0,2676.0,1742.77,Marketplace,Card
+ORD10792,2024-11-28,Uttar Pradesh,Beauty,Sunscreen,1,305,0.1,274.5,195.3,Marketplace,COD
+ORD10793,2025-06-12,West Bengal,Fashion,Backpack,1,640,0.0,640.0,511.94,Website,UPI
+ORD10794,2025-08-26,Maharashtra,Home & Kitchen,Mixer Grinder,3,1353,0.15,3450.15,2071.54,Marketplace,UPI
+ORD10795,2024-11-11,Delhi,Electronics,Smart Watch,2,6095,0.0,12190.0,8504.38,Mobile App,UPI
+ORD10796,2024-08-03,Tamil Nadu,Electronics,Smart Watch,4,4507,0.05,17126.6,12679.0,Marketplace,Net Banking
+ORD10797,2025-12-08,Maharashtra,Fashion,Backpack,1,2277,0.05,2163.15,1606.01,Mobile App,Net Banking
+ORD10798,2024-12-01,Tamil Nadu,Beauty,Moisturizer,4,1006,0.1,3621.6,2268.18,Mobile App,Card
+ORD10799,2024-08-18,Gujarat,Beauty,Face Wash,3,1038,0.05,2958.3,1911.3,Marketplace,Card
+ORD10800,2024-11-19,Maharashtra,Home & Kitchen,Mixer Grinder,4,3142,0.0,12568.0,7594.47,Website,Card
+ORD10801,2024-01-09,Tamil Nadu,Home & Kitchen,Mixer Grinder,4,1268,0.1,4564.8,2772.92,Marketplace,UPI
+ORD10802,2024-08-08,Karnataka,Fashion,Sneakers,1,322,0.05,305.9,186.3,Website,Net Banking
+ORD10803,2025-01-11,Karnataka,Beauty,Face Wash,2,1135,0.0,2270.0,1793.78,Website,UPI
+ORD10804,2025-11-02,Gujarat,Electronics,Wireless Earbuds,2,4628,0.1,8330.4,5268.26,Mobile App,COD
+ORD10805,2025-06-23,Delhi,Beauty,Sunscreen,3,820,0.1,2214.0,1435.46,Website,Net Banking
+ORD10806,2025-07-25,Rajasthan,Beauty,Face Wash,4,145,0.0,580.0,387.53,Marketplace,COD
+ORD10807,2025-02-02,Tamil Nadu,Electronics,Wireless Earbuds,1,1246,0.0,1246.0,936.71,Marketplace,COD
+ORD10808,2024-03-21,Tamil Nadu,Beauty,Moisturizer,3,527,0.2,1264.8,992.73,Website,Card
+ORD10809,2024-10-12,Rajasthan,Home & Kitchen,Mixer Grinder,3,759,0.0,2277.0,1744.33,Marketplace,Net Banking
+ORD10810,2025-12-29,Karnataka,Home & Kitchen,Mixer Grinder,1,291,0.05,276.45,191.61,Mobile App,COD
+ORD10811,2024-02-02,Maharashtra,Electronics,Wireless Earbuds,2,3501,0.05,6651.9,5000.49,Marketplace,Card
+ORD10812,2025-10-04,West Bengal,Home & Kitchen,Mixer Grinder,4,1445,0.15,4913.0,3562.26,Mobile App,Card
+ORD10813,2025-05-15,Gujarat,Home & Kitchen,Bedsheet,4,3596,0.05,13664.8,8918.39,Mobile App,Card
+ORD10814,2024-07-26,Tamil Nadu,Electronics,Smart Watch,3,4347,0.2,10432.8,6383.02,Mobile App,Card
+ORD10815,2025-07-22,Tamil Nadu,Grocery,Rice,2,576,0.0,1152.0,714.5,Marketplace,Net Banking
+ORD10816,2025-09-03,Gujarat,Fashion,Kurta,3,1678,0.15,4278.9,3177.32,Mobile App,Card
+ORD10817,2024-02-01,Karnataka,Grocery,Rice,1,186,0.05,176.7,120.38,Website,Card
+ORD10818,2024-03-18,Tamil Nadu,Fashion,Kurta,4,1571,0.15,5341.4,4203.56,Mobile App,UPI
+ORD10819,2025-05-01,Maharashtra,Beauty,Sunscreen,1,356,0.0,356.0,261.88,Mobile App,Card
+ORD10820,2025-12-31,Tamil Nadu,Electronics,Power Bank,1,6750,0.05,6412.5,4478.62,Website,COD
+ORD10821,2024-01-18,Karnataka,Electronics,Wireless Earbuds,2,2480,0.05,4712.0,2832.79,Marketplace,Card
+ORD10822,2025-05-01,Tamil Nadu,Grocery,Tea,2,297,0.15,504.9,381.83,Mobile App,Card
+ORD10823,2024-04-09,Uttar Pradesh,Grocery,Rice,1,752,0.05,714.4,479.08,Mobile App,Net Banking
+ORD10824,2025-04-20,Delhi,Home & Kitchen,Storage Box,4,2231,0.05,8477.8,5699.43,Mobile App,COD
+ORD10825,2025-03-31,Uttar Pradesh,Fashion,Sneakers,1,1576,0.1,1418.4,1008.9,Mobile App,COD
+ORD10826,2024-03-07,Karnataka,Beauty,Sunscreen,4,524,0.1,1886.4,1379.47,Website,COD
+ORD10827,2025-05-12,Karnataka,Electronics,Smart Watch,3,5590,0.0,16770.0,11502.3,Mobile App,Card
+ORD10828,2025-10-17,Tamil Nadu,Home & Kitchen,Storage Box,2,1279,0.2,2046.4,1412.7,Marketplace,Net Banking
+ORD10829,2025-09-23,Rajasthan,Beauty,Face Wash,3,232,0.05,661.2,416.55,Mobile App,COD
+ORD10830,2024-01-22,West Bengal,Electronics,Wireless Earbuds,1,955,0.05,907.25,534.08,Marketplace,COD
+ORD10831,2024-06-28,Tamil Nadu,Fashion,Sneakers,3,1721,0.1,4646.7,3291.81,Mobile App,UPI
+ORD10832,2024-06-25,Uttar Pradesh,Fashion,Backpack,4,1181,0.1,4251.6,3552.97,Marketplace,Net Banking
+ORD10833,2024-11-27,Tamil Nadu,Beauty,Sunscreen,3,271,0.1,731.7,439.56,Website,UPI
+ORD10834,2024-04-14,Karnataka,Home & Kitchen,Bedsheet,1,1550,0.1,1395.0,957.0,Website,UPI
+ORD10835,2025-09-16,Rajasthan,Electronics,Smart Watch,4,2246,0.0,8984.0,5718.6,Marketplace,Card
+ORD10836,2025-07-21,Tamil Nadu,Electronics,Wireless Earbuds,2,3673,0.0,7346.0,5499.42,Marketplace,COD
+ORD10837,2025-08-13,West Bengal,Home & Kitchen,Storage Box,2,1892,0.0,3784.0,2686.71,Website,Net Banking
+ORD10838,2024-05-24,Gujarat,Fashion,Backpack,3,539,0.05,1536.15,1211.22,Marketplace,Net Banking
+ORD10839,2024-01-11,Delhi,Beauty,Sunscreen,4,978,0.1,3520.8,2611.76,Website,Net Banking
+ORD10840,2025-10-27,West Bengal,Electronics,Power Bank,1,2179,0.0,2179.0,1604.8,Mobile App,Net Banking
+ORD10841,2024-07-30,Karnataka,Home & Kitchen,Bedsheet,4,2859,0.05,10864.2,8609.3,Marketplace,Net Banking
+ORD10842,2025-04-24,Tamil Nadu,Grocery,Dry Fruits,4,273,0.1,982.8,759.08,Website,COD
+ORD10843,2025-10-26,Maharashtra,Grocery,Dry Fruits,4,309,0.1,1112.4,862.45,Marketplace,COD
+ORD10844,2024-01-27,Karnataka,Home & Kitchen,Bedsheet,3,1086,0.15,2769.3,1828.66,Website,Net Banking
+ORD10845,2024-01-05,Uttar Pradesh,Beauty,Face Wash,2,412,0.1,741.6,566.4,Marketplace,Net Banking
+ORD10846,2024-01-04,Delhi,Home & Kitchen,Bedsheet,1,1232,0.05,1170.4,860.37,Marketplace,Card
+ORD10847,2024-04-24,Gujarat,Beauty,Sunscreen,4,1174,0.15,3991.6,2933.04,Marketplace,Card
+ORD10848,2024-02-07,Karnataka,Electronics,Power Bank,3,3456,0.1,9331.2,6297.01,Website,Net Banking
+ORD10849,2025-08-22,Maharashtra,Fashion,Sneakers,2,2016,0.0,4032.0,2930.7,Mobile App,Net Banking
+ORD10850,2025-03-18,Karnataka,Electronics,Smart Watch,3,5822,0.0,17466.0,14449.92,Website,COD
+ORD10851,2025-12-17,Uttar Pradesh,Grocery,Tea,3,724,0.1,1954.8,1626.18,Marketplace,COD
+ORD10852,2025-08-08,Tamil Nadu,Fashion,Sneakers,4,997,0.0,3988.0,2318.41,Mobile App,UPI
+ORD10853,2025-12-05,Rajasthan,Grocery,Tea,1,505,0.1,454.5,362.67,Marketplace,COD
+ORD10854,2024-06-23,West Bengal,Fashion,Backpack,4,1932,0.1,6955.2,4989.86,Website,Net Banking
+ORD10855,2024-07-29,West Bengal,Beauty,Moisturizer,4,393,0.05,1493.4,894.75,Marketplace,COD
+ORD10856,2025-09-12,Delhi,Electronics,Smart Watch,3,5442,0.0,16326.0,9583.42,Website,COD
+ORD10857,2024-06-28,Karnataka,Home & Kitchen,Storage Box,3,1514,0.0,4542.0,3251.01,Mobile App,UPI
+ORD10858,2024-02-11,Maharashtra,Fashion,Sneakers,3,2279,0.0,6837.0,4185.68,Mobile App,UPI
+ORD10859,2025-05-04,Uttar Pradesh,Home & Kitchen,Bedsheet,1,3019,0.15,2566.15,1928.84,Website,Card
+ORD10860,2025-08-08,Delhi,Electronics,Smart Watch,1,1413,0.0,1413.0,1006.91,Mobile App,Card
+ORD10861,2025-12-08,Karnataka,Grocery,Dry Fruits,2,432,0.0,864.0,587.12,Marketplace,Net Banking
+ORD10862,2025-11-09,Uttar Pradesh,Electronics,Power Bank,3,2702,0.0,8106.0,4831.79,Mobile App,Card
+ORD10863,2024-03-28,Rajasthan,Electronics,Power Bank,4,5262,0.1,18943.2,14264.02,Website,COD
+ORD10864,2025-07-18,Maharashtra,Fashion,Sneakers,3,2052,0.2,4924.8,3004.38,Website,Net Banking
+ORD10865,2025-09-10,Maharashtra,Beauty,Sunscreen,2,1071,0.1,1927.8,1497.43,Marketplace,UPI
+ORD10866,2025-05-25,Tamil Nadu,Fashion,Kurta,1,1021,0.15,867.85,676.88,Marketplace,COD
+ORD10867,2025-08-22,Rajasthan,Electronics,Wireless Earbuds,3,3769,0.0,11307.0,7556.02,Website,Net Banking
+ORD10868,2025-09-04,Gujarat,Home & Kitchen,Storage Box,1,1595,0.1,1435.5,958.55,Mobile App,UPI
+ORD10869,2024-11-22,Tamil Nadu,Grocery,Dry Fruits,3,515,0.15,1313.25,1067.75,Mobile App,Card
+ORD10870,2024-01-30,Uttar Pradesh,Beauty,Sunscreen,1,551,0.2,440.8,355.19,Website,Card
+ORD10871,2024-11-29,Delhi,Grocery,Dry Fruits,4,778,0.0,3112.0,2169.5,Mobile App,Net Banking
+ORD10872,2024-05-27,Maharashtra,Electronics,Power Bank,2,958,0.0,1916.0,1465.66,Marketplace,UPI
+ORD10873,2024-03-24,Maharashtra,Beauty,Moisturizer,2,552,0.15,938.4,720.91,Mobile App,Card
+ORD10874,2024-04-01,Gujarat,Beauty,Moisturizer,3,723,0.2,1735.2,1267.43,Marketplace,Net Banking
+ORD10875,2025-05-24,Karnataka,Electronics,Power Bank,2,6106,0.0,12212.0,8944.7,Mobile App,UPI
+ORD10876,2025-01-03,Gujarat,Home & Kitchen,Bedsheet,4,477,0.0,1908.0,1371.82,Mobile App,UPI
+ORD10877,2025-01-29,Karnataka,Electronics,Smart Watch,2,4181,0.05,7943.9,4619.3,Website,Net Banking
+ORD10878,2025-06-28,Delhi,Grocery,Dry Fruits,4,768,0.1,2764.8,1860.09,Website,UPI
+ORD10879,2025-02-04,Delhi,Electronics,Smart Watch,4,2415,0.1,8694.0,6232.94,Website,COD
+ORD10880,2025-04-05,Maharashtra,Home & Kitchen,Mixer Grinder,2,1399,0.15,2378.3,1815.23,Marketplace,COD
+ORD10881,2024-03-03,Tamil Nadu,Electronics,Smart Watch,2,2932,0.1,5277.6,3613.07,Mobile App,UPI
+ORD10882,2025-09-14,Rajasthan,Electronics,Power Bank,1,2999,0.1,2699.1,1987.55,Mobile App,Net Banking
+ORD10883,2024-11-24,Delhi,Grocery,Tea,4,305,0.0,1220.0,775.43,Website,UPI
+ORD10884,2024-04-23,Uttar Pradesh,Home & Kitchen,Storage Box,1,2895,0.0,2895.0,1823.51,Marketplace,Net Banking
+ORD10885,2025-08-17,West Bengal,Grocery,Tea,1,386,0.1,347.4,272.12,Mobile App,COD
+ORD10886,2025-06-21,Karnataka,Beauty,Sunscreen,2,734,0.1,1321.2,1048.0,Website,Card
+ORD10887,2024-02-08,Tamil Nadu,Beauty,Sunscreen,1,1034,0.1,930.6,669.15,Mobile App,Card
+ORD10888,2024-05-21,Delhi,Grocery,Rice,3,339,0.15,864.45,661.35,Mobile App,UPI
+ORD10889,2024-01-12,West Bengal,Beauty,Sunscreen,2,346,0.1,622.8,370.06,Website,Card
+ORD10890,2024-07-16,West Bengal,Beauty,Moisturizer,4,1048,0.0,4192.0,2692.32,Marketplace,COD
+ORD10891,2024-03-14,Uttar Pradesh,Fashion,Backpack,1,1084,0.1,975.6,748.14,Website,COD
+ORD10892,2025-06-02,Rajasthan,Electronics,Power Bank,1,1709,0.0,1709.0,1246.39,Marketplace,UPI
+ORD10893,2025-01-16,Gujarat,Electronics,Smart Watch,1,2455,0.1,2209.5,1846.73,Marketplace,UPI
+ORD10894,2025-12-17,Gujarat,Electronics,Smart Watch,4,3274,0.15,11131.6,7837.24,Mobile App,COD
+ORD10895,2025-07-01,Tamil Nadu,Grocery,Rice,1,183,0.05,173.85,118.32,Website,UPI
+ORD10896,2025-03-23,Rajasthan,Home & Kitchen,Storage Box,3,2438,0.2,5851.2,4091.35,Marketplace,Card
+ORD10897,2025-01-07,Maharashtra,Fashion,Kurta,3,1365,0.1,3685.5,2472.27,Marketplace,Card
+ORD10898,2024-02-09,West Bengal,Home & Kitchen,Mixer Grinder,2,2447,0.05,4649.3,3491.96,Mobile App,Card
+ORD10899,2024-02-21,Delhi,Grocery,Dry Fruits,1,188,0.15,159.8,115.4,Website,COD
+ORD10900,2025-03-26,Karnataka,Grocery,Tea,1,94,0.05,89.3,57.93,Website,UPI
+ORD10901,2024-01-04,Rajasthan,Electronics,Wireless Earbuds,3,1777,0.05,5064.45,3443.44,Marketplace,Card
+ORD10902,2024-01-31,Rajasthan,Electronics,Wireless Earbuds,2,2863,0.15,4867.1,3864.85,Mobile App,UPI
+ORD10903,2024-06-09,Uttar Pradesh,Electronics,Wireless Earbuds,4,1850,0.15,6290.0,4135.9,Marketplace,Net Banking
+ORD10904,2025-10-08,Uttar Pradesh,Home & Kitchen,Mixer Grinder,4,2722,0.2,8710.4,6016.35,Mobile App,Card
+ORD10905,2024-12-01,Delhi,Home & Kitchen,Bedsheet,3,3793,0.0,11379.0,8936.04,Mobile App,Net Banking
+ORD10906,2025-06-02,Uttar Pradesh,Electronics,Smart Watch,1,3894,0.0,3894.0,3006.02,Marketplace,Net Banking
+ORD10907,2024-10-27,Karnataka,Grocery,Dry Fruits,2,899,0.1,1618.2,1164.64,Website,UPI
+ORD10908,2024-05-06,West Bengal,Fashion,Backpack,3,1492,0.1,4028.4,2953.55,Mobile App,UPI
+ORD10909,2024-09-28,Delhi,Grocery,Dry Fruits,2,567,0.1,1020.6,813.67,Website,UPI
+ORD10910,2024-03-08,Maharashtra,Grocery,Dry Fruits,2,514,0.0,1028.0,728.92,Website,COD
+ORD10911,2025-07-17,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,855,0.15,2180.25,1736.46,Mobile App,COD
+ORD10912,2024-05-14,Uttar Pradesh,Beauty,Moisturizer,1,588,0.05,558.6,356.48,Mobile App,Net Banking
+ORD10913,2024-10-02,Rajasthan,Fashion,Backpack,3,2178,0.0,6534.0,4900.57,Mobile App,Card
+ORD10914,2025-12-17,Karnataka,Fashion,Sneakers,2,1376,0.05,2614.4,1926.36,Marketplace,Net Banking
+ORD10915,2025-03-08,Maharashtra,Fashion,Sneakers,3,1674,0.1,4519.8,3188.04,Mobile App,COD
+ORD10916,2024-12-01,Maharashtra,Electronics,Smart Watch,4,4357,0.0,17428.0,13648.55,Website,COD
+ORD10917,2025-01-31,Uttar Pradesh,Fashion,Kurta,4,1099,0.05,4176.2,2988.32,Mobile App,Card
+ORD10918,2025-07-27,West Bengal,Fashion,Sneakers,2,2298,0.1,4136.4,3225.95,Mobile App,Card
+ORD10919,2024-07-05,Delhi,Electronics,Power Bank,2,2438,0.0,4876.0,4028.73,Marketplace,Card
+ORD10920,2025-04-10,Karnataka,Beauty,Face Wash,1,923,0.05,876.85,659.44,Mobile App,UPI
+ORD10921,2025-09-29,Karnataka,Electronics,Smart Watch,3,5340,0.05,15219.0,11737.61,Marketplace,COD
+ORD10922,2025-02-22,Tamil Nadu,Grocery,Dry Fruits,3,655,0.0,1965.0,1496.46,Mobile App,COD
+ORD10923,2024-11-22,Tamil Nadu,Beauty,Moisturizer,1,1103,0.0,1103.0,656.71,Mobile App,UPI
+ORD10924,2024-04-16,Rajasthan,Home & Kitchen,Storage Box,1,718,0.1,646.2,439.13,Marketplace,UPI
+ORD10925,2024-06-30,Tamil Nadu,Beauty,Face Wash,4,870,0.0,3480.0,2888.4,Mobile App,Card
+ORD10926,2025-11-22,Delhi,Grocery,Tea,1,613,0.1,551.7,460.0,Mobile App,COD
+ORD10927,2025-01-30,Tamil Nadu,Grocery,Tea,2,172,0.0,344.0,278.6,Marketplace,COD
+ORD10928,2024-08-08,Karnataka,Fashion,Sneakers,1,1802,0.0,1802.0,1445.39,Website,Net Banking
+ORD10929,2024-11-01,West Bengal,Grocery,Dry Fruits,1,440,0.0,440.0,356.31,Website,COD
+ORD10930,2025-02-26,West Bengal,Beauty,Face Wash,4,822,0.0,3288.0,2214.18,Website,UPI
+ORD10931,2025-01-27,Gujarat,Grocery,Dry Fruits,3,94,0.05,267.9,173.39,Marketplace,COD
+ORD10932,2025-05-26,Maharashtra,Electronics,Power Bank,4,3341,0.2,10691.2,7918.72,Website,Card
+ORD10933,2024-07-07,Gujarat,Electronics,Smart Watch,3,6415,0.1,17320.5,14044.65,Website,COD
+ORD10934,2025-04-19,West Bengal,Beauty,Moisturizer,2,1198,0.05,2276.2,1659.82,Mobile App,Net Banking
+ORD10935,2024-11-19,Uttar Pradesh,Electronics,Power Bank,3,5627,0.15,14348.85,11188.83,Marketplace,UPI
+ORD10936,2025-11-18,Karnataka,Beauty,Moisturizer,2,993,0.1,1787.4,1374.18,Marketplace,Net Banking
+ORD10937,2024-04-25,Maharashtra,Home & Kitchen,Mixer Grinder,2,649,0.05,1233.1,732.9,Marketplace,COD
+ORD10938,2024-04-18,Gujarat,Grocery,Dry Fruits,1,547,0.15,464.95,339.42,Mobile App,UPI
+ORD10939,2024-12-03,Gujarat,Beauty,Face Wash,3,717,0.05,2043.45,1201.63,Marketplace,UPI
+ORD10940,2025-01-06,Uttar Pradesh,Fashion,Sneakers,3,1827,0.05,5206.95,3449.37,Marketplace,COD
+ORD10941,2025-05-20,Maharashtra,Beauty,Sunscreen,4,1174,0.0,4696.0,3653.76,Marketplace,Net Banking
+ORD10942,2024-10-22,West Bengal,Beauty,Face Wash,1,576,0.1,518.4,426.72,Mobile App,UPI
+ORD10943,2025-10-29,Karnataka,Beauty,Moisturizer,4,575,0.05,2185.0,1830.82,Website,Net Banking
+ORD10944,2024-12-12,Karnataka,Grocery,Rice,2,301,0.2,481.6,393.46,Mobile App,Net Banking
+ORD10945,2024-04-04,Gujarat,Fashion,Backpack,3,1539,0.0,4617.0,3679.5,Mobile App,Card
+ORD10946,2024-03-28,Delhi,Beauty,Moisturizer,2,154,0.05,292.6,186.81,Mobile App,UPI
+ORD10947,2025-12-12,Uttar Pradesh,Fashion,Sneakers,2,1775,0.1,3195.0,1986.05,Mobile App,Net Banking
+ORD10948,2024-04-08,Maharashtra,Home & Kitchen,Storage Box,3,3137,0.05,8940.45,6052.58,Mobile App,COD
+ORD10949,2025-11-23,Uttar Pradesh,Electronics,Smart Watch,2,5631,0.0,11262.0,6664.56,Mobile App,UPI
+ORD10950,2024-07-22,Rajasthan,Grocery,Dry Fruits,4,545,0.0,2180.0,1490.68,Marketplace,Net Banking
+ORD10951,2024-03-09,Rajasthan,Grocery,Rice,4,572,0.0,2288.0,1716.65,Mobile App,UPI
+ORD10952,2024-08-10,Gujarat,Fashion,Sneakers,1,2111,0.05,2005.45,1211.06,Website,Card
+ORD10953,2025-03-25,Uttar Pradesh,Home & Kitchen,Bedsheet,4,3310,0.1,11916.0,8716.83,Mobile App,Net Banking
+ORD10954,2024-11-08,Karnataka,Beauty,Face Wash,2,1045,0.15,1776.5,1422.39,Marketplace,Card
+ORD10955,2025-07-28,Gujarat,Electronics,Power Bank,3,1546,0.1,4174.2,2802.45,Marketplace,COD
+ORD10956,2025-03-22,Gujarat,Fashion,Backpack,2,1696,0.05,3222.4,2688.17,Marketplace,COD
+ORD10957,2024-10-19,Delhi,Home & Kitchen,Mixer Grinder,1,580,0.1,522.0,360.79,Website,Card
+ORD10958,2025-04-08,Karnataka,Grocery,Rice,1,245,0.05,232.75,148.49,Website,Card
+ORD10959,2025-12-11,Uttar Pradesh,Grocery,Dry Fruits,2,523,0.0,1046.0,800.55,Mobile App,Net Banking
+ORD10960,2024-10-28,Maharashtra,Electronics,Power Bank,2,6135,0.15,10429.5,7078.33,Website,Card
+ORD10961,2024-04-22,Tamil Nadu,Grocery,Tea,3,476,0.0,1428.0,1082.97,Marketplace,COD
+ORD10962,2024-10-25,Tamil Nadu,Fashion,Kurta,4,367,0.1,1321.2,852.41,Marketplace,COD
+ORD10963,2025-09-06,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,2722,0.05,2585.9,1935.64,Mobile App,Net Banking
+ORD10964,2024-06-08,Rajasthan,Fashion,Sneakers,2,2473,0.0,4946.0,3903.04,Mobile App,UPI
+ORD10965,2025-11-24,Karnataka,Electronics,Power Bank,2,5053,0.1,9095.4,6073.56,Website,Card
+ORD10966,2025-03-06,Karnataka,Beauty,Moisturizer,3,1066,0.0,3198.0,2353.62,Marketplace,UPI
+ORD10967,2025-03-15,Gujarat,Electronics,Wireless Earbuds,1,3944,0.1,3549.6,2563.59,Marketplace,UPI
+ORD10968,2024-08-19,Maharashtra,Home & Kitchen,Storage Box,2,3230,0.0,6460.0,5160.33,Website,COD
+ORD10969,2025-11-03,Karnataka,Beauty,Moisturizer,4,1088,0.1,3916.8,2744.37,Website,Net Banking
+ORD10970,2024-01-27,Uttar Pradesh,Electronics,Power Bank,3,5048,0.0,15144.0,9112.3,Mobile App,COD
+ORD10971,2024-08-06,Delhi,Grocery,Tea,1,875,0.15,743.75,484.24,Website,UPI
+ORD10972,2024-11-01,Karnataka,Fashion,Backpack,3,431,0.0,1293.0,987.33,Mobile App,COD
+ORD10973,2024-12-14,Delhi,Electronics,Smart Watch,2,6446,0.05,12247.4,9192.03,Mobile App,UPI
+ORD10974,2024-12-12,Tamil Nadu,Electronics,Power Bank,4,6143,0.15,20886.2,15712.67,Mobile App,Net Banking
+ORD10975,2024-04-18,Maharashtra,Fashion,Kurta,2,2397,0.05,4554.3,3807.56,Website,COD
+ORD10976,2024-06-13,West Bengal,Home & Kitchen,Bedsheet,4,3186,0.0,12744.0,10472.25,Website,Card
+ORD10977,2024-03-10,Karnataka,Home & Kitchen,Bedsheet,3,3301,0.15,8417.55,5306.26,Website,COD
+ORD10978,2025-02-22,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,3228,0.0,3228.0,2015.46,Website,COD
+ORD10979,2024-09-13,Gujarat,Electronics,Wireless Earbuds,1,2131,0.1,1917.9,1196.0,Mobile App,UPI
+ORD10980,2025-02-17,West Bengal,Beauty,Face Wash,3,390,0.05,1111.5,727.6,Mobile App,Net Banking
+ORD10981,2025-03-07,Delhi,Grocery,Rice,3,128,0.15,326.4,246.84,Mobile App,Card
+ORD10982,2025-05-28,Karnataka,Fashion,Sneakers,1,2370,0.1,2133.0,1630.98,Mobile App,UPI
+ORD10983,2025-02-03,Maharashtra,Electronics,Power Bank,3,3963,0.0,11889.0,8864.65,Website,Card
+ORD10984,2025-04-18,Rajasthan,Home & Kitchen,Storage Box,1,2807,0.2,2245.6,1829.73,Mobile App,Card
+ORD10985,2025-03-05,Rajasthan,Beauty,Moisturizer,1,551,0.1,495.9,313.67,Marketplace,COD
+ORD10986,2025-04-21,West Bengal,Grocery,Dry Fruits,3,748,0.0,2244.0,1805.59,Mobile App,UPI
+ORD10987,2025-03-26,Uttar Pradesh,Electronics,Smart Watch,2,1639,0.2,2622.4,1902.35,Marketplace,Net Banking
+ORD10988,2024-08-19,Tamil Nadu,Fashion,Sneakers,1,2006,0.15,1705.1,1361.39,Website,COD
+ORD10989,2024-06-29,Tamil Nadu,Fashion,Backpack,3,489,0.0,1467.0,942.76,Marketplace,UPI
+ORD10990,2025-07-29,Karnataka,Beauty,Face Wash,2,330,0.15,561.0,385.65,Mobile App,UPI
+ORD10991,2024-09-07,Gujarat,Beauty,Moisturizer,3,479,0.1,1293.3,948.89,Mobile App,UPI
+ORD10992,2025-02-05,Delhi,Home & Kitchen,Storage Box,2,2889,0.05,5489.1,3302.85,Website,Net Banking
+ORD10993,2024-05-23,Gujarat,Home & Kitchen,Mixer Grinder,1,3400,0.15,2890.0,1833.48,Marketplace,UPI
+ORD10994,2024-11-11,Rajasthan,Grocery,Tea,3,395,0.15,1007.25,768.32,Marketplace,Net Banking
+ORD10995,2025-01-22,Maharashtra,Electronics,Smart Watch,1,4378,0.15,3721.3,2783.69,Website,UPI
+ORD10996,2025-04-02,Maharashtra,Home & Kitchen,Bedsheet,4,1650,0.05,6270.0,3841.37,Website,Net Banking
+ORD10997,2025-01-19,Rajasthan,Electronics,Smart Watch,1,4108,0.2,3286.4,2323.68,Website,Net Banking
+ORD10998,2024-09-20,Tamil Nadu,Fashion,Sneakers,4,2475,0.0,9900.0,7228.33,Marketplace,UPI
+ORD10999,2025-12-04,Gujarat,Home & Kitchen,Storage Box,4,898,0.0,3592.0,2400.09,Website,UPI
+ORD11000,2025-01-09,Uttar Pradesh,Fashion,Backpack,4,398,0.05,1512.4,1054.98,Website,Net Banking
+ORD11001,2025-08-13,Rajasthan,Beauty,Face Wash,3,159,0.1,429.3,251.91,Website,Net Banking
+ORD11002,2025-06-22,Karnataka,Grocery,Tea,3,614,0.15,1565.7,1204.36,Marketplace,UPI
+ORD11003,2025-02-12,West Bengal,Beauty,Sunscreen,1,376,0.1,338.4,229.38,Mobile App,Net Banking
+ORD11004,2025-10-09,Delhi,Beauty,Sunscreen,1,504,0.1,453.6,334.89,Marketplace,Card
+ORD11005,2024-04-03,Karnataka,Grocery,Rice,4,755,0.0,3020.0,2080.92,Mobile App,UPI
+ORD11006,2025-11-04,Karnataka,Electronics,Smart Watch,4,2752,0.0,11008.0,7352.07,Marketplace,COD
+ORD11007,2025-09-13,Maharashtra,Beauty,Moisturizer,4,269,0.0,1076.0,767.55,Mobile App,COD
+ORD11008,2025-01-03,Rajasthan,Home & Kitchen,Bedsheet,4,1437,0.0,5748.0,3694.28,Website,Card
+ORD11009,2025-06-20,Rajasthan,Beauty,Moisturizer,3,451,0.05,1285.35,970.09,Marketplace,COD
+ORD11010,2025-01-15,Gujarat,Grocery,Dry Fruits,1,656,0.1,590.4,425.27,Website,UPI
+ORD11011,2024-07-15,West Bengal,Grocery,Dry Fruits,3,522,0.05,1487.7,961.37,Marketplace,Net Banking
+ORD11012,2025-08-07,Karnataka,Home & Kitchen,Mixer Grinder,1,676,0.05,642.2,476.66,Mobile App,Net Banking
+ORD11013,2024-06-28,Gujarat,Electronics,Power Bank,4,6070,0.15,20638.0,14755.73,Mobile App,Net Banking
+ORD11014,2024-08-17,West Bengal,Fashion,Sneakers,2,745,0.0,1490.0,1093.97,Marketplace,Card
+ORD11015,2025-01-14,Maharashtra,Grocery,Rice,3,602,0.2,1444.8,999.0,Marketplace,Net Banking
+ORD11016,2025-09-04,Rajasthan,Beauty,Sunscreen,3,187,0.1,504.9,347.24,Marketplace,Net Banking
+ORD11017,2024-10-07,Rajasthan,Grocery,Tea,4,835,0.0,3340.0,2056.65,Marketplace,UPI
+ORD11018,2024-12-27,Maharashtra,Electronics,Wireless Earbuds,4,3501,0.15,11903.4,8785.22,Marketplace,Net Banking
+ORD11019,2024-01-31,Uttar Pradesh,Electronics,Wireless Earbuds,4,6537,0.05,24840.6,14789.51,Marketplace,UPI
+ORD11020,2024-03-25,Maharashtra,Grocery,Tea,2,476,0.0,952.0,649.01,Website,UPI
+ORD11021,2024-02-10,Tamil Nadu,Home & Kitchen,Bedsheet,1,2989,0.1,2690.1,1700.49,Marketplace,COD
+ORD11022,2024-02-22,Uttar Pradesh,Fashion,Sneakers,4,1548,0.15,5263.2,4338.51,Marketplace,COD
+ORD11023,2025-09-26,Delhi,Home & Kitchen,Storage Box,3,979,0.0,2937.0,2075.74,Website,Card
+ORD11024,2025-09-07,Delhi,Grocery,Dry Fruits,3,775,0.1,2092.5,1717.28,Marketplace,Card
+ORD11025,2025-08-23,Maharashtra,Home & Kitchen,Bedsheet,1,1725,0.0,1725.0,1075.7,Mobile App,Card
+ORD11026,2024-02-10,West Bengal,Grocery,Tea,2,855,0.05,1624.5,945.84,Mobile App,COD
+ORD11027,2024-02-26,Maharashtra,Beauty,Moisturizer,4,1132,0.0,4528.0,3455.98,Mobile App,Net Banking
+ORD11028,2024-07-24,Gujarat,Fashion,Sneakers,2,1955,0.1,3519.0,2380.22,Website,Net Banking
+ORD11029,2025-02-17,Karnataka,Grocery,Dry Fruits,2,332,0.0,664.0,479.6,Marketplace,UPI
+ORD11030,2024-09-01,Tamil Nadu,Grocery,Dry Fruits,2,104,0.0,208.0,171.4,Mobile App,Net Banking
+ORD11031,2024-12-22,Uttar Pradesh,Beauty,Face Wash,4,826,0.05,3138.8,1977.01,Mobile App,Net Banking
+ORD11032,2024-05-06,Rajasthan,Electronics,Power Bank,3,1865,0.0,5595.0,3827.37,Mobile App,COD
+ORD11033,2025-06-18,Karnataka,Home & Kitchen,Mixer Grinder,1,2769,0.15,2353.65,1677.61,Mobile App,COD
+ORD11034,2024-08-17,West Bengal,Electronics,Wireless Earbuds,1,874,0.15,742.9,469.44,Mobile App,COD
+ORD11035,2024-02-18,Gujarat,Beauty,Sunscreen,1,568,0.0,568.0,354.81,Marketplace,Card
+ORD11036,2025-06-26,Uttar Pradesh,Home & Kitchen,Bedsheet,2,3608,0.1,6494.4,4331.28,Website,UPI
+ORD11037,2025-10-21,Maharashtra,Fashion,Sneakers,2,900,0.1,1620.0,1182.4,Marketplace,UPI
+ORD11038,2024-01-11,Tamil Nadu,Grocery,Rice,2,183,0.0,366.0,242.03,Mobile App,UPI
+ORD11039,2024-11-15,Uttar Pradesh,Fashion,Sneakers,1,985,0.1,886.5,668.39,Mobile App,Card
+ORD11040,2025-08-27,Tamil Nadu,Home & Kitchen,Mixer Grinder,3,263,0.1,710.1,593.28,Marketplace,Net Banking
+ORD11041,2025-05-31,Karnataka,Home & Kitchen,Bedsheet,3,2455,0.15,6260.25,4974.27,Website,Card
+ORD11042,2025-09-18,Tamil Nadu,Beauty,Sunscreen,4,860,0.1,3096.0,2032.64,Website,UPI
+ORD11043,2024-10-30,Uttar Pradesh,Fashion,Backpack,3,2337,0.0,7011.0,4577.03,Marketplace,COD
+ORD11044,2024-09-29,Rajasthan,Beauty,Moisturizer,4,715,0.0,2860.0,2375.7,Mobile App,COD
+ORD11045,2025-06-02,Karnataka,Electronics,Wireless Earbuds,1,955,0.1,859.5,673.71,Mobile App,Card
+ORD11046,2024-04-22,Karnataka,Beauty,Moisturizer,4,945,0.0,3780.0,2598.06,Marketplace,Net Banking
+ORD11047,2024-06-24,Tamil Nadu,Beauty,Face Wash,1,439,0.1,395.1,325.92,Website,Net Banking
+ORD11048,2025-03-15,West Bengal,Electronics,Wireless Earbuds,4,3924,0.15,13341.6,10012.72,Marketplace,COD
+ORD11049,2025-05-03,Uttar Pradesh,Electronics,Power Bank,2,4864,0.1,8755.2,6224.56,Mobile App,UPI
+ORD11050,2024-03-28,Rajasthan,Home & Kitchen,Storage Box,3,1398,0.05,3984.3,2337.37,Website,Card
+ORD11051,2025-01-06,Rajasthan,Fashion,Kurta,3,1303,0.15,3322.65,1943.74,Website,COD
+ORD11052,2024-09-23,West Bengal,Grocery,Dry Fruits,3,501,0.0,1503.0,1184.06,Website,COD
+ORD11053,2025-01-01,Uttar Pradesh,Fashion,Kurta,3,2274,0.1,6139.8,4401.96,Website,UPI
+ORD11054,2025-12-01,Rajasthan,Grocery,Tea,3,781,0.0,2343.0,1723.68,Mobile App,COD
+ORD11055,2024-02-26,Karnataka,Fashion,Kurta,2,1622,0.15,2757.4,1805.8,Mobile App,Net Banking
+ORD11056,2025-12-28,West Bengal,Home & Kitchen,Mixer Grinder,4,286,0.0,1144.0,827.26,Website,UPI
+ORD11057,2024-11-24,Uttar Pradesh,Home & Kitchen,Bedsheet,1,3878,0.0,3878.0,3090.15,Marketplace,UPI
+ORD11058,2025-07-18,Uttar Pradesh,Beauty,Sunscreen,3,813,0.0,2439.0,2005.82,Website,COD
+ORD11059,2024-11-06,Tamil Nadu,Beauty,Face Wash,4,922,0.0,3688.0,2314.16,Website,Card
+ORD11060,2024-08-15,Gujarat,Fashion,Backpack,4,1052,0.1,3787.2,2928.77,Marketplace,COD
+ORD11061,2025-07-17,Karnataka,Fashion,Sneakers,2,860,0.1,1548.0,956.44,Marketplace,Net Banking
+ORD11062,2025-05-17,Maharashtra,Beauty,Moisturizer,2,449,0.15,763.3,491.74,Mobile App,Card
+ORD11063,2024-04-15,Gujarat,Home & Kitchen,Bedsheet,3,1957,0.1,5283.9,3927.28,Marketplace,Net Banking
+ORD11064,2025-05-30,Uttar Pradesh,Grocery,Rice,2,637,0.0,1274.0,944.86,Website,UPI
+ORD11065,2025-07-04,Delhi,Home & Kitchen,Bedsheet,1,2253,0.15,1915.05,1290.94,Website,UPI
+ORD11066,2024-10-10,Uttar Pradesh,Home & Kitchen,Bedsheet,2,336,0.15,571.2,399.09,Website,UPI
+ORD11067,2025-11-07,Rajasthan,Fashion,Backpack,4,2127,0.05,8082.6,5815.01,Website,UPI
+ORD11068,2025-04-13,Maharashtra,Fashion,Sneakers,4,1756,0.1,6321.6,4094.35,Marketplace,UPI
+ORD11069,2024-08-31,Rajasthan,Fashion,Kurta,1,1847,0.0,1847.0,1375.65,Mobile App,Card
+ORD11070,2024-01-08,Tamil Nadu,Beauty,Sunscreen,1,1130,0.0,1130.0,855.05,Marketplace,Card
+ORD11071,2025-05-08,Karnataka,Grocery,Tea,4,417,0.15,1417.8,1009.83,Mobile App,Card
+ORD11072,2024-06-01,Karnataka,Electronics,Power Bank,3,3662,0.05,10436.7,7510.67,Website,UPI
+ORD11073,2025-07-07,Gujarat,Electronics,Wireless Earbuds,3,6935,0.0,20805.0,14119.11,Marketplace,UPI
+ORD11074,2025-01-18,West Bengal,Fashion,Sneakers,2,1718,0.2,2748.8,1679.83,Website,Card
+ORD11075,2024-12-07,Delhi,Fashion,Kurta,1,1748,0.05,1660.6,1080.83,Website,Net Banking
+ORD11076,2024-04-29,Delhi,Grocery,Rice,4,426,0.1,1533.6,1127.52,Website,Net Banking
+ORD11077,2025-06-04,Uttar Pradesh,Electronics,Wireless Earbuds,1,2967,0.0,2967.0,2283.2,Marketplace,UPI
+ORD11078,2024-05-01,Tamil Nadu,Beauty,Sunscreen,4,266,0.1,957.6,770.9,Mobile App,UPI
+ORD11079,2024-11-01,Tamil Nadu,Beauty,Face Wash,2,299,0.15,508.3,361.68,Website,UPI
+ORD11080,2025-09-03,Maharashtra,Electronics,Power Bank,1,1451,0.05,1378.45,858.75,Website,UPI
+ORD11081,2025-11-03,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,1037,0.05,985.15,678.97,Website,COD
+ORD11082,2025-12-24,Maharashtra,Electronics,Smart Watch,1,1885,0.1,1696.5,1299.65,Mobile App,UPI
+ORD11083,2025-12-01,Karnataka,Beauty,Face Wash,2,218,0.0,436.0,343.87,Mobile App,Net Banking
+ORD11084,2025-02-10,West Bengal,Beauty,Face Wash,4,1119,0.05,4252.2,2605.43,Marketplace,Card
+ORD11085,2024-05-26,Rajasthan,Electronics,Wireless Earbuds,1,4092,0.1,3682.8,2398.41,Mobile App,Net Banking
+ORD11086,2025-09-05,Gujarat,Fashion,Kurta,4,1706,0.0,6824.0,5243.31,Marketplace,COD
+ORD11087,2025-08-08,Delhi,Beauty,Moisturizer,3,123,0.05,350.55,269.19,Mobile App,Net Banking
+ORD11088,2025-12-24,Karnataka,Beauty,Face Wash,4,377,0.0,1508.0,1028.55,Website,UPI
+ORD11089,2025-04-20,Uttar Pradesh,Grocery,Rice,1,625,0.05,593.75,409.44,Marketplace,Net Banking
+ORD11090,2024-04-13,West Bengal,Grocery,Tea,3,300,0.1,810.0,628.27,Website,COD
+ORD11091,2025-01-02,Delhi,Electronics,Wireless Earbuds,3,3579,0.0,10737.0,7891.16,Website,COD
+ORD11092,2024-11-23,Tamil Nadu,Grocery,Tea,2,272,0.1,489.6,325.78,Marketplace,Net Banking
+ORD11093,2025-09-08,Delhi,Grocery,Dry Fruits,1,690,0.1,621.0,455.87,Mobile App,COD
+ORD11094,2024-10-13,Karnataka,Beauty,Face Wash,1,311,0.0,311.0,197.56,Mobile App,Net Banking
+ORD11095,2024-08-28,Delhi,Fashion,Sneakers,4,355,0.15,1207.0,958.34,Marketplace,Card
+ORD11096,2024-02-28,Rajasthan,Home & Kitchen,Mixer Grinder,4,1573,0.1,5662.8,4426.65,Marketplace,Net Banking
+ORD11097,2025-09-02,Uttar Pradesh,Electronics,Smart Watch,1,3280,0.15,2788.0,2251.92,Marketplace,COD
+ORD11098,2025-07-06,Tamil Nadu,Grocery,Rice,1,622,0.0,622.0,452.62,Marketplace,Card
+ORD11099,2024-01-31,Delhi,Fashion,Kurta,3,917,0.1,2475.9,1551.28,Website,Card
+ORD11100,2024-11-13,Rajasthan,Electronics,Power Bank,3,2840,0.1,7668.0,6037.04,Website,Net Banking
+ORD11101,2024-12-16,Karnataka,Fashion,Sneakers,1,862,0.05,818.9,514.19,Marketplace,UPI
+ORD11102,2024-12-09,Delhi,Grocery,Dry Fruits,2,728,0.15,1237.6,909.57,Website,UPI
+ORD11103,2025-11-02,Maharashtra,Home & Kitchen,Bedsheet,2,1773,0.1,3191.4,2306.93,Marketplace,Card
+ORD11104,2024-04-20,West Bengal,Electronics,Wireless Earbuds,4,3199,0.1,11516.4,7194.52,Mobile App,Card
+ORD11105,2024-08-11,Gujarat,Electronics,Power Bank,2,6611,0.05,12560.9,7784.87,Website,Card
+ORD11106,2024-05-12,Gujarat,Home & Kitchen,Storage Box,4,1350,0.1,4860.0,3128.04,Website,Card
+ORD11107,2024-06-27,Delhi,Home & Kitchen,Mixer Grinder,3,1385,0.0,4155.0,2613.77,Marketplace,UPI
+ORD11108,2025-10-25,Delhi,Beauty,Sunscreen,2,378,0.15,642.6,446.7,Marketplace,UPI
+ORD11109,2025-11-18,Gujarat,Grocery,Rice,2,412,0.05,782.8,507.74,Mobile App,Net Banking
+ORD11110,2024-02-02,Gujarat,Fashion,Kurta,4,1944,0.0,7776.0,5206.55,Marketplace,Card
+ORD11111,2025-04-07,Rajasthan,Beauty,Moisturizer,2,1011,0.05,1920.9,1419.03,Website,UPI
+ORD11112,2024-06-19,Maharashtra,Electronics,Smart Watch,4,4687,0.0,18748.0,13005.26,Website,Net Banking
+ORD11113,2024-05-20,West Bengal,Beauty,Face Wash,1,405,0.1,364.5,277.31,Website,Net Banking
+ORD11114,2024-08-01,Tamil Nadu,Beauty,Moisturizer,2,438,0.0,876.0,728.95,Marketplace,Card
+ORD11115,2024-05-22,West Bengal,Beauty,Moisturizer,1,731,0.1,657.9,423.28,Mobile App,Card
+ORD11116,2024-12-24,Tamil Nadu,Beauty,Moisturizer,3,300,0.0,900.0,735.63,Marketplace,COD
+ORD11117,2025-12-28,Uttar Pradesh,Home & Kitchen,Storage Box,4,3352,0.0,13408.0,8049.17,Website,UPI
+ORD11118,2025-03-04,Tamil Nadu,Grocery,Dry Fruits,3,782,0.1,2111.4,1678.37,Mobile App,COD
+ORD11119,2025-06-12,West Bengal,Grocery,Dry Fruits,3,106,0.05,302.1,244.5,Website,Net Banking
+ORD11120,2024-12-26,Rajasthan,Electronics,Power Bank,2,1049,0.05,1993.1,1660.2,Marketplace,COD
+ORD11121,2024-01-11,Rajasthan,Beauty,Sunscreen,1,653,0.0,653.0,498.51,Website,Net Banking
+ORD11122,2024-03-02,Gujarat,Home & Kitchen,Storage Box,3,2844,0.15,7252.2,4770.5,Website,Net Banking
+ORD11123,2024-07-15,Karnataka,Electronics,Power Bank,1,4833,0.15,4108.05,2706.62,Marketplace,COD
+ORD11124,2024-06-27,Rajasthan,Grocery,Rice,2,255,0.15,433.5,254.05,Mobile App,UPI
+ORD11125,2025-09-06,Tamil Nadu,Fashion,Sneakers,3,1315,0.05,3747.75,2455.16,Marketplace,Card
+ORD11126,2025-09-08,Maharashtra,Home & Kitchen,Storage Box,2,3654,0.05,6942.6,5122.99,Website,Card
+ORD11127,2025-09-16,Delhi,Electronics,Wireless Earbuds,2,2441,0.05,4637.9,2797.54,Mobile App,UPI
+ORD11128,2025-04-11,Gujarat,Grocery,Rice,4,508,0.2,1625.6,956.91,Mobile App,Net Banking
+ORD11129,2025-02-10,Karnataka,Grocery,Dry Fruits,3,725,0.0,2175.0,1602.57,Mobile App,Card
+ORD11130,2025-04-19,Karnataka,Home & Kitchen,Storage Box,3,2681,0.1,7238.7,5472.37,Website,COD
+ORD11131,2024-10-24,Tamil Nadu,Home & Kitchen,Mixer Grinder,2,2830,0.0,5660.0,3969.61,Mobile App,Net Banking
+ORD11132,2025-05-04,Karnataka,Electronics,Power Bank,1,6275,0.15,5333.75,3823.9,Marketplace,Card
+ORD11133,2025-08-03,Rajasthan,Grocery,Rice,1,262,0.0,262.0,192.83,Mobile App,UPI
+ORD11134,2025-07-11,Tamil Nadu,Fashion,Kurta,3,2434,0.05,6936.9,5315.94,Mobile App,COD
+ORD11135,2025-03-24,Uttar Pradesh,Grocery,Dry Fruits,2,745,0.05,1415.5,1183.23,Mobile App,COD
+ORD11136,2024-02-12,Maharashtra,Home & Kitchen,Storage Box,2,1766,0.1,3178.8,2354.97,Marketplace,Net Banking
+ORD11137,2025-06-13,Gujarat,Beauty,Moisturizer,1,1182,0.15,1004.7,833.1,Website,Card
+ORD11138,2024-09-24,Gujarat,Beauty,Moisturizer,2,221,0.05,419.9,307.66,Website,UPI
+ORD11139,2025-06-27,Uttar Pradesh,Home & Kitchen,Storage Box,1,2594,0.0,2594.0,1798.19,Marketplace,COD
+ORD11140,2025-01-29,Maharashtra,Fashion,Kurta,3,409,0.05,1165.65,787.53,Website,UPI
+ORD11141,2025-10-06,Gujarat,Electronics,Smart Watch,2,2970,0.05,5643.0,4614.57,Mobile App,UPI
+ORD11142,2024-09-04,Rajasthan,Electronics,Wireless Earbuds,1,2097,0.1,1887.3,1378.41,Mobile App,Card
+ORD11143,2025-11-11,Delhi,Fashion,Sneakers,4,1247,0.0,4988.0,3115.05,Marketplace,Card
+ORD11144,2025-09-09,Delhi,Electronics,Wireless Earbuds,1,3290,0.05,3125.5,2441.28,Mobile App,UPI
+ORD11145,2024-08-30,Delhi,Home & Kitchen,Bedsheet,3,1753,0.1,4733.1,3957.4,Marketplace,Net Banking
+ORD11146,2024-12-18,Karnataka,Beauty,Moisturizer,4,621,0.05,2359.8,1527.28,Marketplace,Card
+ORD11147,2025-01-23,Tamil Nadu,Fashion,Kurta,2,916,0.05,1740.4,1082.98,Marketplace,COD
+ORD11148,2025-07-15,Gujarat,Home & Kitchen,Mixer Grinder,2,3161,0.05,6005.9,3866.83,Website,COD
+ORD11149,2025-05-18,West Bengal,Electronics,Power Bank,4,3161,0.0,12644.0,9779.23,Marketplace,Net Banking
+ORD11150,2025-09-14,Karnataka,Grocery,Tea,4,803,0.0,3212.0,2436.97,Mobile App,UPI
+ORD11151,2024-09-27,Gujarat,Grocery,Dry Fruits,4,720,0.05,2736.0,1633.77,Marketplace,Net Banking
+ORD11152,2025-01-04,Karnataka,Home & Kitchen,Storage Box,4,1167,0.1,4201.2,3297.16,Mobile App,Net Banking
+ORD11153,2024-11-10,Delhi,Electronics,Wireless Earbuds,4,3860,0.05,14668.0,10772.03,Mobile App,Net Banking
+ORD11154,2025-10-26,Karnataka,Fashion,Sneakers,3,2122,0.1,5729.4,4481.91,Website,Net Banking
+ORD11155,2024-08-10,Delhi,Electronics,Wireless Earbuds,2,4143,0.05,7871.7,6581.17,Website,COD
+ORD11156,2025-03-05,Delhi,Beauty,Face Wash,4,891,0.15,3029.4,2471.8,Website,Net Banking
+ORD11157,2024-03-28,Gujarat,Fashion,Kurta,3,2337,0.1,6309.9,3733.58,Marketplace,UPI
+ORD11158,2025-09-13,West Bengal,Electronics,Smart Watch,2,6894,0.05,13098.6,8201.45,Website,Card
+ORD11159,2024-10-07,Uttar Pradesh,Electronics,Wireless Earbuds,3,6209,0.0,18627.0,12766.25,Marketplace,Net Banking
+ORD11160,2024-09-05,Uttar Pradesh,Beauty,Face Wash,1,543,0.15,461.55,345.98,Mobile App,UPI
+ORD11161,2025-03-02,Tamil Nadu,Fashion,Backpack,4,534,0.0,2136.0,1497.34,Marketplace,COD
+ORD11162,2024-12-30,Tamil Nadu,Grocery,Rice,2,630,0.0,1260.0,917.98,Marketplace,UPI
+ORD11163,2025-09-11,Maharashtra,Fashion,Backpack,2,2078,0.0,4156.0,3210.48,Website,Card
+ORD11164,2025-01-23,Tamil Nadu,Electronics,Wireless Earbuds,3,6827,0.0,20481.0,12152.58,Marketplace,COD
+ORD11165,2025-01-12,Delhi,Electronics,Smart Watch,2,1092,0.1,1965.6,1563.34,Mobile App,Net Banking
+ORD11166,2024-03-17,Uttar Pradesh,Home & Kitchen,Mixer Grinder,3,927,0.15,2363.85,1494.1,Marketplace,COD
+ORD11167,2024-01-17,Delhi,Electronics,Smart Watch,1,3277,0.0,3277.0,2562.42,Mobile App,COD
+ORD11168,2024-10-18,West Bengal,Fashion,Backpack,3,1809,0.1,4884.3,3602.18,Marketplace,UPI
+ORD11169,2025-12-30,Delhi,Beauty,Face Wash,1,730,0.1,657.0,425.91,Marketplace,Card
+ORD11170,2025-11-01,Uttar Pradesh,Grocery,Dry Fruits,4,882,0.1,3175.2,2641.31,Mobile App,COD
+ORD11171,2025-04-04,Karnataka,Grocery,Tea,3,355,0.0,1065.0,746.32,Mobile App,Net Banking
+ORD11172,2025-04-06,West Bengal,Home & Kitchen,Bedsheet,4,3055,0.15,10387.0,6671.86,Marketplace,UPI
+ORD11173,2024-10-13,Karnataka,Fashion,Sneakers,2,853,0.1,1535.4,1157.81,Mobile App,Net Banking
+ORD11174,2024-05-09,Gujarat,Grocery,Tea,4,601,0.05,2283.8,1600.08,Marketplace,COD
+ORD11175,2024-01-07,Gujarat,Fashion,Sneakers,4,1873,0.1,6742.8,4510.83,Mobile App,UPI
+ORD11176,2024-09-04,Delhi,Fashion,Sneakers,4,2192,0.1,7891.2,5659.64,Mobile App,Net Banking
+ORD11177,2024-08-19,Tamil Nadu,Electronics,Wireless Earbuds,2,1012,0.1,1821.6,1426.62,Website,UPI
+ORD11178,2024-05-20,Maharashtra,Home & Kitchen,Mixer Grinder,3,1258,0.1,3396.6,2371.42,Marketplace,Net Banking
+ORD11179,2024-07-08,Maharashtra,Electronics,Smart Watch,4,2532,0.0,10128.0,7356.97,Marketplace,COD
+ORD11180,2024-01-19,Tamil Nadu,Beauty,Moisturizer,2,425,0.05,807.5,520.29,Mobile App,Card
+ORD11181,2025-03-20,Tamil Nadu,Fashion,Backpack,2,1634,0.05,3104.6,1911.67,Website,UPI
+ORD11182,2025-11-08,Uttar Pradesh,Electronics,Power Bank,3,3167,0.0,9501.0,5899.05,Mobile App,Net Banking
+ORD11183,2025-05-19,West Bengal,Fashion,Kurta,4,2126,0.0,8504.0,6414.52,Website,UPI
+ORD11184,2024-11-23,Tamil Nadu,Electronics,Power Bank,1,6475,0.1,5827.5,3867.06,Marketplace,COD
+ORD11185,2024-11-03,West Bengal,Grocery,Dry Fruits,3,603,0.1,1628.1,1051.04,Mobile App,UPI
+ORD11186,2024-08-12,West Bengal,Home & Kitchen,Mixer Grinder,4,2509,0.15,8530.6,6257.19,Marketplace,UPI
+ORD11187,2024-04-14,Gujarat,Electronics,Wireless Earbuds,4,1276,0.0,5104.0,3877.11,Mobile App,COD
+ORD11188,2025-03-13,Tamil Nadu,Beauty,Face Wash,1,795,0.0,795.0,610.56,Website,UPI
+ORD11189,2025-02-18,Rajasthan,Electronics,Smart Watch,1,3504,0.0,3504.0,2882.3,Marketplace,Card
+ORD11190,2024-01-06,Gujarat,Fashion,Kurta,2,602,0.0,1204.0,858.28,Marketplace,UPI
+ORD11191,2024-10-30,Uttar Pradesh,Grocery,Rice,1,749,0.0,749.0,539.87,Mobile App,Card
+ORD11192,2024-07-22,Rajasthan,Grocery,Tea,2,457,0.0,914.0,698.25,Website,UPI
+ORD11193,2024-05-04,Karnataka,Electronics,Power Bank,4,6714,0.1,24170.4,15747.25,Marketplace,Net Banking
+ORD11194,2025-05-28,Uttar Pradesh,Beauty,Moisturizer,3,1112,0.1,3002.4,1821.87,Mobile App,UPI
+ORD11195,2025-01-19,Maharashtra,Electronics,Wireless Earbuds,3,3052,0.1,8240.4,6225.66,Website,COD
+ORD11196,2025-04-08,Maharashtra,Electronics,Smart Watch,3,5890,0.15,15019.5,9006.87,Website,COD
+ORD11197,2025-06-05,Tamil Nadu,Beauty,Face Wash,1,403,0.0,403.0,291.9,Website,UPI
+ORD11198,2025-12-18,Uttar Pradesh,Beauty,Moisturizer,1,890,0.0,890.0,707.04,Marketplace,Net Banking
+ORD11199,2025-08-09,Delhi,Fashion,Backpack,1,738,0.0,738.0,567.04,Website,UPI
+ORD11200,2025-03-29,Maharashtra,Grocery,Tea,3,268,0.0,804.0,618.32,Mobile App,COD
